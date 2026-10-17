@@ -97,7 +97,7 @@ button { font: inherit; color: inherit; }
   }
   .screen { height: 100%; min-height: 0; border-radius: 44px; overflow: hidden; }
   .screen main { overflow-y: auto; }
-  .topbar { padding-top: 58px; }
+  .screen .topbar { padding-top: 60px; }
 }
 
 /* ---------- chrome ---------- */
@@ -108,9 +108,12 @@ button { font: inherit; color: inherit; }
   position: sticky; top: 0; z-index: 10;
 }
 .brand { display: flex; align-items: center; gap: 8px; font-weight: 700; color: var(--text); text-decoration: none; font-size: 17px; }
+.brand span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.brand { min-width: 0; }
 .brand svg { width: 28px; height: 28px; border-radius: 7px; flex: none; }
 .topbar-actions { display: flex; gap: 6px; }
 .chip-btn {
+  white-space: nowrap;
   border: 1px solid var(--border); background: var(--surface); border-radius: 999px;
   padding: 5px 11px; font-size: 13px; font-weight: 600; cursor: pointer; min-height: 32px;
 }
@@ -187,7 +190,7 @@ footer.disclaimer { text-align: center; font-size: 12px; color: var(--muted); ma
 /* ---------- home: status line ---------- */
 .status-line { cursor: pointer; }
 .status-main { font-weight: 700; }
-.clocks { display: flex; gap: 12px; font-variant-numeric: tabular-nums; font-size: 14px; margin: 6px 0; }
+.clocks { display: flex; flex-wrap: wrap; gap: 4px 14px; font-variant-numeric: tabular-nums; font-size: 14px; margin: 6px 0; }
 .clocks b { font-weight: 700; }
 .based-on { font-size: 12px; color: var(--muted); }
 
