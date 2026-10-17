@@ -385,10 +385,11 @@ def _struct_to_dt(t) -> datetime | None:
 
 
 def _strip_html(s: str) -> str:
+    """Feed title / summary / content to plain text."""
     if "<" not in s:
         return s.strip()
-    return html_to_text(f"<article><p>{s}</p></article>") if not re.search(r"<p[\s>]", s, re.I) \
-        else html_to_text(f"<article>{s}</article>")
+    has_blocks = re.search(r"<(?:p|blockquote|h1|h2)[\s>]", s, re.I)
+    return html_to_text(f"<article>{s}</article>" if has_blocks else f"<article><p>{s}</p></article>")
 
 
 class RssFetcher:
@@ -565,11 +566,11 @@ class RssFetcher:
                     self._mark(url)
                     return None
             elif domain_match(fhost, self.config.link_only):
+                self.log("LINK_ONLY", f"{url}: redirected to a link-only outlet, not used")
                 self._mark(url, final)
                 return None
-            url_final = final
             self._mark(url)
-            url = url_final
+            url = final
         if len(text) < MIN_ARTICLE_CHARS:
             self.log("SKIP", f"{url}: no article text found")
             self._mark(url)
