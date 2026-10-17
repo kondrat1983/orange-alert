@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+
+# Stray downloads/archives (e.g. actionlint tarballs)
+*.tar.gz
+*.tgz
+*.zip

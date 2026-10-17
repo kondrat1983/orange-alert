@@ -83,10 +83,13 @@ back to true, corroborated pending statements are promoted on the next run.
 ## Retract
 
 ```
-python -m pipeline.retract <id> "<reason>" [--data data]
+python -m pipeline.retract <id> --reason "<reason>" [--force] [--data data]
 ```
 
 From a phone: GitHub app → repo → Actions → "Retract statement" → Run workflow → id + reason.
 
 The entry stays in the data with `status: "retracted"` and `retract_reason` (the app shows
 «Відкликано: <reason>»), status/globe are recomputed, and later runs never re-add it.
+Retracting an already retracted id changes nothing (exit 0) unless `--force` is given, which
+replaces the reason. An unknown id is an error (exit 1). `--reason` also accepts a reason that
+starts with `-` when written as `--reason="-wrong date"` (the workflow does this).

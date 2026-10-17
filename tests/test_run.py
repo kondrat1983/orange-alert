@@ -281,3 +281,25 @@ def test_secrets_not_in_code():
     for f in list((ROOT / "pipeline").rglob("*.py")) + list((ROOT / "data").glob("*.json")) + \
              list((ROOT / "pipeline" / "fixtures").rglob("*.json")):
         assert not rx.search(f.read_text(encoding="utf-8")), f
+
+
+def test_retract_twice_is_noop_unless_forced(out, capsys, monkeypatch):
+    monkeypatch.delenv("AUTO_PUBLISH", raising=False)
+    run_cli(out)
+    (g,) = by_quote(read(out, "statements.json"), "Greenland is a very")
+    assert retract_mod.main([g["id"], "--reason", "first", "--data", str(out)]) == 0
+    before = (out / "statements.json").read_text()
+    assert retract_mod.main([g["id"], "--reason", "second", "--data", str(out)]) == 0
+    assert "Already retracted" in capsys.readouterr().out
+    assert (out / "statements.json").read_text() == before
+    assert retract_mod.main([g["id"], "--reason", "second", "--force", "--data", str(out)]) == 0
+    assert by_quote(read(out, "statements.json"), "Greenland is a very")[0]["retract_reason"] == "second"
+
+
+def test_retract_reason_may_start_with_dash(out, monkeypatch):
+    monkeypatch.delenv("AUTO_PUBLISH", raising=False)
+    run_cli(out)
+    (g,) = by_quote(read(out, "statements.json"), "Greenland is a very")
+    assert retract_mod.main([g["id"], "--reason=-x wrong date", "--data", str(out)]) == 0
+    assert by_quote(read(out, "statements.json"), "Greenland is a very")[0]["retract_reason"] == "-x wrong date"
+    assert retract_mod.main(["st_nope", "--reason=-x", "--data", str(out)]) == 1
