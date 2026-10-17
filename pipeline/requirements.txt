@@ -1,0 +1,4 @@
+feedparser>=6.0
+rapidfuzz>=3.0
+# Optional, for en->uk machine translation (lazily imported):
+# argostranslate>=1.9
