@@ -1,0 +1,14 @@
+{
+  "_comment": "Offline fixtures. Fake speaker and fake outlets only: never a real person, never a real quote.",
+  "speaker": {
+    "name": "Test Speaker",
+    "aliases": [
+      "Test Speaker",
+      "Speaker"
+    ],
+    "titles": [
+      "the president"
+    ]
+  },
+  "now": "2026-10-17T18:00:00Z"
+}

@@ -27,6 +27,7 @@ YELLOW_WINDOW_HOURS = 6
 DAY_START_HOUR_ET = 5          # his "day" starts at 05:00 Washington time
 NIGHT_START_HOUR_ET = 23       # 23:00-05:00 Washington time counts as night
 NIGHT_RECENT_HOURS = 2         # night posting = a night statement in the last 2 h
+BUSY_MIN_STATEMENTS = 2        # one statement is "woke up"; "busy elsewhere" needs at least two
 BASELINE_24H = date(2024, 11, 5)  # "24 hours" promise baseline (election day)
 
 EMOJI = {"green": "🟢", "yellow": "🟡", "orange": "🟠", "white": "⚪"}
@@ -150,7 +151,7 @@ def compute_day_status(published: list[Statement], now: datetime) -> dict:
                     f"з {DAY_START_HOUR_ET:02d}:00 за Вашингтоном публічних заяв не виявлено")
     recent_alert = any(s.triggers_alert for s in today if _t(s) >= now - timedelta(hours=ORANGE_HOURS))
     elsewhere = [s for s in today if s.region and not s.triggers_alert]
-    if elsewhere and not recent_alert and not today[-1].triggers_alert:
+    if len(today) >= BUSY_MIN_STATEMENTS and elsewhere and not recent_alert and not today[-1].triggers_alert:
         counts = Counter((s.region, s.us_state) for s in elsewhere)
         top_n = max(counts.values())
         latest_top = [s for s in elsewhere if counts[(s.region, s.us_state)] == top_n][-1]

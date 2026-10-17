@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-17T18:21:47Z",
+  "window_hours": 24,
+  "focus": null,
+  "focus_us_state": null,
+  "regions": {
+    "ukraine": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": true,
+      "us_states": {}
+    },
+    "russia": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": true,
+      "us_states": {}
+    },
+    "greenland": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "canada": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "mexico": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "panama": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "china": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "venezuela": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "middle_east": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "eu_nato": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    },
+    "us_domestic": {
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
+      "alert": false,
+      "us_states": {}
+    }
+  }
+}
