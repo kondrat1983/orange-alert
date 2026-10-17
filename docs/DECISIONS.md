@@ -37,3 +37,5 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | Joke texts | Claude drafts in the style of the "У Вашингтоні прокинувся Трамп. Масова евакуація з інтернету!" meme (official-bulletin tone, absurd instruction); Kondrat approves. Drafts in `docs/TEXTS.md` | Tone only; no red/siren look (SPEC 8) |
 | 2026-10-17 | Error-report contact | kondrat1983@gmail.com (Kondrat's choice) | Supersedes "dedicated project email". Public repo, so expect spam |
 | 2026-10-17 | Hosting | GitHub Pages from the `gh-pages` branch (auto-enabled). Mockup: https://kondrat1983.github.io/orange-alert/ | Updating it is a manual push of `mockup/` to `gh-pages` for now; automate later |
+| 2026-10-17 | Mockup feedback | Approved as is ("Все шикарно"). Draft texts in `docs/TEXTS.md` approved. Icon: variant 1 (default) unless Kondrat says otherwise | Go to MVP (SPEC 10, phase 2) |
+| 2026-10-17 | MVP stack | Pipeline in Python 3.12 (Argos Translate is Python), stdlib + feedparser + rapidfuzz; PWA in plain HTML/CSS/JS in `app/`, built from the mockup, reads `data/*.json` | Main-session default |

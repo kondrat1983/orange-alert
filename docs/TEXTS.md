@@ -3,7 +3,7 @@
 Style reference: the "УВАГА! У Вашингтоні прокинувся Дональд Трамп. Масова евакуація з інтернету!" meme. That means an official-bulletin tone paired with an absurd, harmless instruction.
 We keep the **tone** and drop the **look**: no red, no sirens, no warning triangles (SPEC 8 safety rule). Push titles always start with «🟠 Помаранчева тривога».
 
-Status: DRAFT. Nothing here ships until Kondrat approves. `{region}` / `{N}` are filled from data.
+Status: APPROVED by Kondrat on 17 Oct 2026 (mockup review). Further changes need his OK. `{region}` / `{N}` are filled from data.
 
 ## Alert levels
 
