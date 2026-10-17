@@ -22,3 +22,7 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | Running gags in MVP | "Two weeks" tracker, "24 hours" counter, TACO-meter | TACO outcomes shown only after Kondrat confirms each (SPEC 15.3). Cards-as-UI not in MVP |
 | 2026-10-17 | "24 hours" baseline | Election day, 5 Nov 2024 | Counter links to the original promises |
 | 2026-10-17 | Home counters | Days since last Ukraine statement; Ukraine statements in last 7 days; days since "24 hours" baseline | |
+| 2026-10-17 | Globe | Light 3D globe (d3/SVG orthographic, no textures), iPhone-friendly | |
+| 2026-10-17 | Globe window | Last 24 h | |
+| 2026-10-17 | Globe regions | Full SPEC 13 list: Ukraine, Russia, Greenland/Denmark, Canada, Mexico, Panama, China, Venezuela, Middle East, EU/NATO, US domestic | |
+| 2026-10-17 | Trump-day states | All 5 from SPEC 14; "At the microphone" only if a machine-readable public schedule with allowed automated access is found | |
