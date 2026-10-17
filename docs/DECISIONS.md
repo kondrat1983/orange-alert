@@ -30,3 +30,6 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | Error reports | By email or Telegram | Which one and which address: open question |
 | 2026-10-17 | Share cards | Yes, after MVP (phase 5); MVP has link previews only | |
 | 2026-10-17 | Branding | As in SPEC 8: «Помаранчева тривога» / Orange Alert, orange + calm dark blue, abstract icon; mockup shows 2 icon variants | |
+| 2026-10-17 | Translation | Offline open-source model (Argos Translate) run inside GitHub Actions; labelled "машинний переклад" | No keys, no cost |
+| 2026-10-17 | Error-report contact | Dedicated project email (address TBD by Kondrat); never his personal address | |
+| 2026-10-17 | Pipeline schedule | Every 30 min (default; no API cost now) | Main-session default, not asked |

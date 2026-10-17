@@ -73,7 +73,7 @@ Topics to cover (add your own if you see gaps):
 6. **Sources.** Review the list in section 4. Add or remove outlets?
 7. **Branding.** Name, icon, colours (see section 8).
 8. **Corrections.** How a reader reports a wrong quote, and what happens then.
-9. **Budget.** Monthly limit for the Claude API and any other paid services.
+9. **Budget.** Decided: no Claude API, no paid services; everything runs on free tiers.
 10. **Sharing.** Should each statement have a share card (image for Telegram / Instagram stories)?
 11. **Globe.** 3D globe or flat map? Which regions are tracked? Time window (last 24 h, 72 h)? Texts for each region state (section 13).
 12. **Trump-day status.** Which states, which signals count as "woke up", and the texts (section 14).
@@ -120,11 +120,11 @@ Rules:
 Runs as a **GitHub Actions** workflow on a schedule (every 15–30 min, decide in the BA phase):
 
 1. **Fetch** new items from the sources.
-2. **Extract** with the Claude API: is this a statement by Trump about Ukraine? Exact quote, date, platform, topics, confidence.
+2. **Extract** with deterministic scripts, no LLM (decided 17 Oct 2026): find quoted strings attributed to Trump ("Trump said / wrote / posted" patterns), date, platform, region and topics by keyword rules.
 3. **Verify the quote is verbatim.** The quote string must appear in the fetched source text (normalised quotes and whitespace). If it doesn't, it is not a quote. Skip it or mark it "paraphrase" (see 6.2).
 4. **Corroborate.** Auto-publish only when **two independent outlets** carry the same quote, or one primary source does (whitehouse.gov transcript, or the post itself linked by an outlet). Otherwise put it in `data/pending.json` and do not publish.
 5. **Deduplicate** the same statement reported by many outlets (fuzzy match on the quote) into one entry with several sources.
-6. **Translate** to Ukrainian. Label it as machine translation.
+6. **Translate** to Ukrainian with an offline open-source model (Argos Translate) in the Action. Label it as machine translation.
 7. **Commit** to `data/statements.json`, so GitHub Pages redeploys.
 8. **Notify** subscribers (section 9).
 
@@ -139,7 +139,7 @@ Also needed:
 
 1. **Quotes are verbatim** and always shown in English next to the translation.
 2. **Paraphrases** ("Trump said Ukraine should…" without a direct quote) are allowed only with a clear "Переказ" badge and a source link, and never trigger 🟠 on their own.
-3. **The AI never writes jokes about a real person.** All humour comes from fixed texts that Kondrat writes and approves: alert-level names, notification titles, empty states, the "В укриття" button, counter labels. The model only extracts, classifies and translates.
+3. **No generated jokes about a real person.** All humour comes from fixed texts that Kondrat writes and approves: alert-level names, notification titles, empty states, the "В укриття" button, counter labels. Scripts only extract, classify and translate.
 4. No invented quotes anywhere: not in data, tests, fixtures or the mockup.
 5. Every statement page links to its sources.
 6. The About page and footer say: satire, quotes are real, not affiliated with anyone.
@@ -164,7 +164,7 @@ Facts only, computed from `statements.json`:
 - Web Push for the installed PWA (on iPhone it works only after "Add to Home Screen"; tell the user that in the UI).
 - Store subscriptions in Supabase (free tier), table with RLS: the browser can only insert its own subscription.
 - The GitHub Action sends pushes with VAPID keys.
-- **Secrets live only in GitHub Actions secrets:** `ANTHROPIC_API_KEY`, `VAPID_PRIVATE_KEY`, the Supabase service key. Never in code, never in commits, never in chat. The Supabase publishable (anon) key in the client is fine.
+- **Secrets live only in GitHub Actions secrets:** `VAPID_PRIVATE_KEY`, the Supabase service key. Never in code, never in commits, never in chat. The Supabase publishable (anon) key in the client is fine.
 - Respect topics, quiet hours (Kyiv time) and a daily cap.
 
 ## 10. Phases
@@ -205,7 +205,7 @@ The centrepiece of the home screen. A globe (3D, for example `globe.gl` / three.
 - publishes statements on **all** regions to the feed (filter by region), with the same verbatim and corroboration safeguards;
 - only Ukraine/war and Putin/Russia statements raise 🟠 and send push; other regions light up calm on the globe (decided 17 Oct 2026, see DECISIONS.md).
 
-Keep the cost in check: a cheaper model or batching for region classification, and a daily cap. Report the expected monthly API cost in the BA phase.
+Region classification is done by keyword rules (no LLM, no API cost).
 
 ## 14. Trump-day status: «Трамп прокинувся, чекаємо»
 
