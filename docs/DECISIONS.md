@@ -19,3 +19,6 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | Push default | One daily digest (time TBD, Kyiv evening) | Per-🟠 push is opt-in in settings |
 | 2026-10-17 | Quiet hours | 22:00–10:00 Kyiv by default, user-adjustable | |
 | 2026-10-17 | Daily cap | Max 3 pushes per day per subscriber, digest included | |
+| 2026-10-17 | Running gags in MVP | "Two weeks" tracker, "24 hours" counter, TACO-meter | TACO outcomes shown only after Kondrat confirms each (SPEC 15.3). Cards-as-UI not in MVP |
+| 2026-10-17 | "24 hours" baseline | Election day, 5 Nov 2024 | Counter links to the original promises |
+| 2026-10-17 | Home counters | Days since last Ukraine statement; Ukraine statements in last 7 days; days since "24 hours" baseline | |
