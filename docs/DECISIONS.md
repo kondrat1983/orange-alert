@@ -16,3 +16,6 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | "Woke up" signal | First detected statement of his day (any topic), Washington time; UI notes the 10–60 min delay | Closes the open point on 🟡 |
 | 2026-10-17 | Speakers | Trump only; no press secretary or officials | |
 | 2026-10-17 | Scope of topics | 🟠 and push: Ukraine/Zelensky/war (peace talks, aid, weapons, territory) + any statement about Putin/Russia. Feed: all regions, filterable by region; non-Ukraine regions are calm-coloured on the globe ("we exhale") and never trigger 🟠 or push | Changes SPEC 13: non-Ukraine statements are published to the feed in full (same verbatim + corroboration safeguards), not only as aggregates. Higher API cost; to be estimated in budget batch |
+| 2026-10-17 | Push default | One daily digest (time TBD, Kyiv evening) | Per-🟠 push is opt-in in settings |
+| 2026-10-17 | Quiet hours | 22:00–10:00 Kyiv by default, user-adjustable | |
+| 2026-10-17 | Daily cap | Max 3 pushes per day per subscriber, digest included | |
