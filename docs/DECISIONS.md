@@ -9,3 +9,7 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | Tone | Dry irony: humour from framing and facts, no crudeness | |
 | 2026-10-17 | Off-limits | Casualties and the dead: when a statement is about victims, joke framing (level texts, badges) is turned off for it | Other topics (deported children, Zelensky/AFU, strikes on cities) not banned |
 | 2026-10-17 | Mass-strike days | No special mode; the app works as usual | |
+| 2026-10-17 | 🟡 trigger | Any of: scheduled public event (press conference, interview) now; a paraphrase without a direct quote; a quote waiting for a second source; start of his day ("woke up": first detected statement of his day, Washington time, any topic) | Status line must show what it is based on (SPEC 14). Open: whether a plain clock time (e.g. 09:00 ET) also counts as "start of day" |
+| 2026-10-17 | 🟠 duration | 6 h after the last statement about Ukraine | |
+| 2026-10-17 | ⚪ all clear | Shown for 1 h after 🟠 ends, then 🟢 | |
+| 2026-10-17 | Push on ⚪ | No | Avoid noise and resemblance to real all-clear alerts |
