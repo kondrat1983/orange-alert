@@ -1,6 +1,7 @@
 """Pipeline entry point.
 
     python -m pipeline.run --fixtures pipeline/fixtures --out data [--dry-run] [--now ISO]
+    python -m pipeline.run --live --out data [--sources pipeline/sources.yml] [--max-articles N] [--dry-run]
 
 Reads existing data/*.json from --out, fetches articles, extracts, verifies,
 deduplicates, corroborates, classifies, translates, then writes
@@ -24,7 +25,8 @@ from .classify import ALERT_REGIONS, REGIONS, classify
 from .corroborate import is_corroborated, pick_canonical
 from .dedup import group_candidates, same_quote, within_window
 from .extract import DEFAULT_SPEAKER, Extractor, SpeakerConfig
-from .fetch import FixtureFetcher, load_fixture_config
+from .fetch import (MAX_ARTICLES, SOURCES_FILE, FixtureFetcher, RssFetcher, load_fixture_config, load_seen,
+                    load_sources, seen_payload)
 from .models import (STATUS_PENDING, STATUS_PUBLISHED, STATUS_RETRACTED, Article, Statement,
                      parse_iso, utc_iso)
 from .verify import is_verbatim, normalize
@@ -222,13 +224,17 @@ def _text(group, url: str) -> str:
 
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="python -m pipeline.run", description=__doc__.split("\n\n")[0])
-    ap.add_argument("--fixtures", required=True, help="fixture directory (config.json + articles/*.json)")
+    mode = ap.add_mutually_exclusive_group(required=True)
+    mode.add_argument("--fixtures", help="fixture directory (config.json + articles/*.json)")
+    mode.add_argument("--live", action="store_true", help="fetch the live sources in --sources")
+    ap.add_argument("--sources", default=str(SOURCES_FILE), help="sources.yml for --live")
+    ap.add_argument("--max-articles", type=int, default=MAX_ARTICLES, help="article page requests per live run")
     ap.add_argument("--out", required=True, help="data directory to read existing data from and write to")
     ap.add_argument("--dry-run", action="store_true", help="do everything but write nothing")
     ap.add_argument("--now", help="override current time (ISO 8601); default: fixture config 'now' or real time")
     args = ap.parse_args(argv)
 
-    cfg = load_fixture_config(args.fixtures)
+    cfg = load_fixture_config(args.fixtures) if args.fixtures else {}
     speaker = SpeakerConfig.from_dict(cfg["speaker"]) if "speaker" in cfg else DEFAULT_SPEAKER
     now_s = args.now or cfg.get("now")
     now = parse_iso(now_s) if now_s else datetime.now(timezone.utc)
@@ -239,7 +245,17 @@ def main(argv: list[str] | None = None) -> int:
     log("START", f"now={utc_iso(now)} speaker={speaker.name!r} auto_publish={auto_publish} "
                  f"translation={'argos' if translate.available() else 'off'} dry_run={args.dry_run}")
     published, pending = load_data(out)
-    articles = FixtureFetcher(args.fixtures).fetch()
+    seen = None
+    if args.live:
+        seen = load_seen(out / "seen.json")
+        fetcher = RssFetcher(load_sources(args.sources), now, seen=seen, log=log,
+                             max_articles=args.max_articles)
+        articles = fetcher.fetch()
+        bad = [h.name for h in fetcher.health if h.state != "ok"]
+        log("HEALTH", f"{len(fetcher.health) - len(bad)}/{len(fetcher.health)} feeds ok"
+                      + (f"; not ok: {', '.join(bad)}" if bad else ""))
+    else:
+        articles = FixtureFetcher(args.fixtures).fetch()
     log("FETCHED", f"{len(articles)} articles")
     published, pending = process(articles, Extractor(speaker), published, pending, now, auto_publish, log)
 
@@ -248,6 +264,8 @@ def main(argv: list[str] | None = None) -> int:
         log("DRY_RUN", "nothing written")
     else:
         status = write_outputs(out, published, pending, now, auto_publish)
+        if seen is not None:
+            _dump(out / "seen.json", seen_payload(seen, now))
         log("WROTE", f"{out}/statements.json, pending.json, globe.json, status.json")
     log("STATUS", f"alert={status['alert']['level']} day={status['day']['state']} "
                   f"published={len(published)} pending={len(pending)}")
