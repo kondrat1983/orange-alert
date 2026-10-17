@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-17T18:21:47Z",
-  "now_washington": "2026-10-17T14:21:47-04:00",
-  "now_kyiv": "2026-10-17T21:21:47+03:00",
+  "generated_at": "2026-10-17T21:57:06Z",
+  "now_washington": "2026-10-17T17:57:06-04:00",
+  "now_kyiv": "2026-10-18T00:57:06+03:00",
   "auto_publish": true,
   "alert": {
-    "level": "green",
-    "since": null,
+    "level": "yellow",
+    "since": "2026-10-17T17:24:07Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "no statements about Ukraine recorded",
-    "based_on_uk": "заяв про Україну не зафіксовано",
-    "emoji": "🟢"
+    "based_on": "a statement about Ukraine is waiting for a second source (Al Jazeera English)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Al Jazeera English)",
+    "emoji": "🟡"
   },
   "day": {
     "at_mic_source": null,
@@ -28,7 +28,7 @@
     "days_since_last_ukraine_statement": null,
     "last_ukraine_statement_id": null,
     "ukraine_statements_last_7_days": 0,
-    "days_since_24h_promise_baseline": 711,
+    "days_since_24h_promise_baseline": 712,
     "baseline_24h": "2024-11-05"
   }
 }
