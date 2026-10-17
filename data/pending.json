@@ -1,5 +1,250 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T18:21:47Z",
-  "statements": []
+  "updated_at": "2026-10-17T21:57:06Z",
+  "statements": [
+    {
+      "id": "st_8e81efa0797d",
+      "quote_en": "In an executive order signed on Friday, Trump said the waiver was in the US national interest.",
+      "quote_uk": "У виконавчому порядку, підписаному у п'ятницю, Трамп заявив, що відмова була в інтересах США.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-17T17:24:07Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+          "independence_group": "ap",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_191a8735be89",
+      "quote_en": "This certainly does not stop the war",
+      "quote_uk": "Це, безумовно, не зупиняється війни",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-17T12:14:26Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/putin-feels-joy-zelensky-calls-trumps-waiving-of-key-russia-sanctions-wrong/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e4c5c4ba0284",
+      "quote_en": "We look at where things are in the deal President Trump says he made to import Russian diesel, plus the reason why the Justice Department is suing California.",
+      "quote_uk": "Ми подивимося на те, що саме в угоді президент Трамп каже, що він зробив для імпорту російського дизеля, а також причина, чому відділ юстиції замовляє Каліфорнія.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-17T11:43:08Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_86d267cdcaa4",
+      "quote_en": "I'm going to go to every one of those 35 places and we're going to see if we can get everyone elected",
+      "quote_uk": "Я збираюся піти на кожен з тих 35 місць і ми будемо бачити, якщо ми можемо отримати всі обрані",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-17T09:00:00Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+          "independence_group": "afp",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_85521bc662cf",
+      "quote_en": "So, I do it to thank them",
+      "quote_uk": "Так, я хочу подякувати їм",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-17T09:00:00Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+          "independence_group": "afp",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_15f3cdcc71dd",
+      "quote_en": "This is worth the 8 hours in a plane",
+      "quote_uk": "Варто 8 годин в площині",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-17T09:00:00Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+          "independence_group": "afp",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_ec5710911fff",
+      "quote_en": "We said you could do whatever you want to Russia, don't hit the refineries, because that's a world problem that's caused",
+      "quote_uk": "Ми сказали, що ви можете зробити те, що ви хочете, щоб Росія, не вдарили переробників, тому що це глобальна проблема, яка була викликана",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-17T02:31:15Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-waives-latest-russia-sanctions-amid-growing-ukraine-us-tensions/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_cbdc47a5f3ee",
+      "quote_en": "Trump says Ukraine's strikes on Russian oil refineries have hiked oil prices.",
+      "quote_uk": "Трамп заявив про те, що в Україні на нафтопереробних заводах збільшилися ціни на нафту.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-16T16:00:30Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_84e4e235249e",
+      "quote_en": "They are hurting Texas and, more importantly, hurting the United States of America!",
+      "quote_uk": "Вони болять Техас і, важливіше, боляче Сполучені Штати Америки!",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-15T22:14:42Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Texas",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_cd3f07649814",
+      "quote_en": "Your favorite President (ME!) is asking all of those who supported Senator John Cornyn to UNITE, and immediately switch your support to Ken Paxton",
+      "quote_uk": "Ваш улюблений президент (ME!) просить всіх тих, хто підтримав Senator John Cornyn до UNITE, і негайно переключіть вашу підтримку Ken Paxton",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-15T22:14:42Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Texas",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    }
+  ]
 }
