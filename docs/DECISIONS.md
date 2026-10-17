@@ -26,3 +26,7 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | Globe window | Last 24 h | |
 | 2026-10-17 | Globe regions | Full SPEC 13 list: Ukraine, Russia, Greenland/Denmark, Canada, Mexico, Panama, China, Venezuela, Middle East, EU/NATO, US domestic | |
 | 2026-10-17 | Trump-day states | All 5 from SPEC 14; "At the microphone" only if a machine-readable public schedule with allowed automated access is found | |
+| 2026-10-17 | Claude API | **Not used.** Extraction, classification and dedup are done with deterministic scripts (pattern matching, keyword rules, fuzzy matching) | Replaces SPEC 5 step 2 (LLM extraction). Corroboration (2 independent outlets carrying the same verbatim quote) becomes the main precision safeguard. Translation approach: open question |
+| 2026-10-17 | Error reports | By email or Telegram | Which one and which address: open question |
+| 2026-10-17 | Share cards | Yes, after MVP (phase 5); MVP has link previews only | |
+| 2026-10-17 | Branding | As in SPEC 8: «Помаранчева тривога» / Orange Alert, orange + calm dark blue, abstract icon; mockup shows 2 icon variants | |
