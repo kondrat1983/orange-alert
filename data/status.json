@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-10-17T18:21:47Z",
+  "now_washington": "2026-10-17T14:21:47-04:00",
+  "now_kyiv": "2026-10-17T21:21:47+03:00",
+  "auto_publish": true,
+  "alert": {
+    "level": "green",
+    "since": null,
+    "until": null,
+    "statement_id": null,
+    "jokes_off": false,
+    "based_on": "no statements about Ukraine recorded",
+    "based_on_uk": "заяв про Україну не зафіксовано",
+    "emoji": "🟢"
+  },
+  "day": {
+    "at_mic_source": null,
+    "delay_note": true,
+    "state": "asleep",
+    "emoji": "😴",
+    "statement_id": null,
+    "region": null,
+    "us_state": null,
+    "based_on": "no public statements detected since 05:00 Washington time",
+    "based_on_uk": "з 05:00 за Вашингтоном публічних заяв не виявлено"
+  },
+  "counters": {
+    "days_since_last_ukraine_statement": null,
+    "last_ukraine_statement_id": null,
+    "ukraine_statements_last_7_days": 0,
+    "days_since_24h_promise_baseline": 711,
+    "baseline_24h": "2024-11-05"
+  }
+}

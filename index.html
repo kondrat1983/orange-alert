@@ -3,32 +3,37 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Помаранчева тривога · макет</title>
-  <meta name="description" content="Clickable mockup of Orange Alert, a satirical PWA. All data is placeholder.">
+  <title>Помаранчева тривога</title>
+  <meta name="description" content="Сатиричний проєкт: що Трамп каже про Україну. Цитати справжні, коментарі наші. / Satire: what Trump says about Ukraine. Quotes are real, comments are ours.">
   <meta name="theme-color" content="#13233f">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2313233f'/%3E%3Cpath d='M18 44a14 14 0 0 1 28 0z' fill='%23f28c28'/%3E%3Crect x='14' y='44' width='36' height='6' rx='3' fill='%23f28c28'/%3E%3C/svg%3E">
+  <meta property="og:title" content="Помаранчева тривога / Orange Alert">
+  <meta property="og:description" content="Сатиричний проєкт. Цитати справжні, коментарі наші.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="icons/icon-512.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Помаранчева">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="stage">
-    <div class="device">
-      <div class="notch" aria-hidden="true"></div>
-      <div class="screen">
-        <header class="topbar">
-          <a href="#/" class="brand" id="brand"></a>
-          <div class="topbar-actions">
-            <button type="button" class="chip-btn" id="langBtn" aria-label="Language"></button>
-            <button type="button" class="chip-btn" id="themeBtn" aria-label="Theme"></button>
-          </div>
-        </header>
-        <div class="demo-banner" id="demoBanner"></div>
-        <main id="view" tabindex="-1"></main>
-        <nav class="tabbar" id="tabbar"></nav>
-        <div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
-        <section class="sheet" id="sheet" role="dialog" aria-modal="true" hidden></section>
-        <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  <div class="screen">
+    <header class="topbar">
+      <a href="#/" class="brand" id="brand"></a>
+      <div class="topbar-actions">
+        <button type="button" class="chip-btn" id="langBtn" aria-label="Language"></button>
+        <button type="button" class="chip-btn" id="themeBtn" aria-label="Theme"></button>
       </div>
-    </div>
+    </header>
+    <div class="demo-banner" id="demoBanner" hidden></div>
+    <main id="view" tabindex="-1"></main>
+    <nav class="tabbar" id="tabbar"></nav>
+    <div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
+    <section class="sheet" id="sheet" role="dialog" aria-modal="true" hidden></section>
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
