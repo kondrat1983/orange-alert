@@ -70,9 +70,9 @@
       c2: 'заяв про Україну за 7 днів',
       c3: '24 години тривають уже {N} днів', c3base: 'база: 05.11.2024',
       c3link: 'обіцянки',
-      shelter: 'В укриття',
-      shelterSub: 'Сховатися від заяв на 24 години',
-      shelterOn: 'Ви в укритті до {time}. Тут тихо.',
+      shelter: 'Торкнутися трави',
+      shelterSub: 'вийти з інтернету на 24 години',
+      shelterOn: 'Ви на траві до {time}. Тут тихо.',
       shelterCancel: 'Торкніться, щоб скасувати',
       shelterToast: 'Сповіщення вимкнено на 24 год (демо)',
       gagsTitle: 'Постійні рубрики',
@@ -186,9 +186,9 @@
       c2: 'statements about Ukraine in 7 days',
       c3: 'The 24 hours have lasted {N} days', c3base: 'baseline: 5 Nov 2024',
       c3link: 'promises',
-      shelter: 'To the shelter',
-      shelterSub: 'Hide from statements for 24 hours',
-      shelterOn: 'You\'re in the shelter until {time}. It\'s quiet here.',
+      shelter: 'Touch grass',
+      shelterSub: 'leave the internet for 24 hours',
+      shelterOn: 'You\'re on the grass until {time}. It\'s quiet here.',
       shelterCancel: 'Tap to cancel',
       shelterToast: 'Notifications off for 24 h (demo)',
       gagsTitle: 'Running features',
@@ -714,7 +714,7 @@
       '</div>' +
 
       '<button type="button" class="shelter' + (muted ? ' on' : '') + '" id="shelterBtn">' +
-        '<span class="ico" aria-hidden="true">' + (muted ? '🔕' : '🛋️') + '</span><span>' +
+        '<span class="ico" aria-hidden="true">' + (muted ? '🌱' : '🌿') + '</span><span>' +
         (muted
           ? '<span class="t">' + esc(t('shelterOn', { time: fmtDateTime(new Date(state.muteUntil), 'Europe/Kyiv') })) + '</span><br><span class="s">' + esc(t('shelterCancel')) + '</span>'
           : '<span class="t">' + esc(t('shelter')) + '</span><br><span class="s">' + esc(t('shelterSub')) + '</span>') +
