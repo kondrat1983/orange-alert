@@ -13,3 +13,5 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | 🟠 duration | 6 h after the last statement about Ukraine | |
 | 2026-10-17 | ⚪ all clear | Shown for 1 h after 🟠 ends, then 🟢 | |
 | 2026-10-17 | Push on ⚪ | No | Avoid noise and resemblance to real all-clear alerts |
+| 2026-10-17 | "Woke up" signal | First detected statement of his day (any topic), Washington time; UI notes the 10–60 min delay | Closes the open point on 🟡 |
+| 2026-10-17 | Speakers | Trump only; no press secretary or officials | |
