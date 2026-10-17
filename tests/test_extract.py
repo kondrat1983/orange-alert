@@ -81,9 +81,6 @@ def test_platform_detection(extractor, text, platform):
     assert c.platform == platform
 
 
-@pytest.mark.xfail(strict=True, reason=(
-    "BUG: partial-quote rule attributes another party's words to the speaker when the sentence "
-    "is 'Speaker said <clause> ... \"quote\"' and the quote belongs to a third party"))
 @pytest.mark.parametrize("text", [
     'Test Speaker said that Other Person called it "a total disaster for us".',
     'Test Speaker said the report called it "a complete and utter failure".',

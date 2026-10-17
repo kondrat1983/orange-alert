@@ -83,7 +83,6 @@ def test_process_quote_not_in_source_text_is_never_published(extractor, log):
         assert s.quote_en.lower().rstrip(".,") in Q.lower()
 
 
-@pytest.mark.xfail(strict=True, reason="BUG/GAP: no code applies wire_markers (docs/SOURCES.md); group comes straight from the fetcher")
 def test_wire_copy_via_two_outlets_counts_once(extractor, log):
     """SOURCES.md: a (AP)/Reuters byline makes the independence group the wire, not the outlet.
     Fixture/Fetcher input gives each outlet its own group, so the pipeline itself must collapse them."""

@@ -37,6 +37,27 @@ SENTENCE_STARTERS = {
     "on", "in", "at", "as", "if", "because", "since", "although", "though",
 }
 
+# Partial quotes ('Speaker said the deal was "very close"') are taken only when nothing between the
+# speaker's verb and the opening quote could make the words someone else's: no other name, no other
+# subject ("the report", "officials", "she"), no speech or characterisation verb ("called", "dubbed").
+CHARACTERISATION_VERBS = (
+    "call", "calls", "called", "calling", "describe", "describes", "described", "describing",
+    "label", "labels", "labelled", "labeled", "term", "terms", "termed", "dub", "dubs", "dubbed",
+    "brand", "brands", "branded", "deem", "deems", "deemed", "characterised", "characterized",
+    "characterises", "characterizes", "refer", "refers", "referred", "quote", "quotes", "quoted",
+    "cite", "cites", "cited", "report", "reports", "reported", "reporting", "according",
+    "write", "wrote", "written", "say", "saying", "tweeted", "posted", "put", "puts", "summed",
+)
+OTHER_SUBJECTS = (
+    "she", "her", "they", "them", "their", "we", "you", "i", "report", "reports", "officials",
+    "official", "aides", "aide", "critics", "critic", "analysts", "analyst", "experts", "expert",
+    "statement", "spokesman", "spokeswoman", "spokesperson", "sources", "source", "lawmakers",
+    "observers", "commentators", "media", "newspaper", "article", "editorial", "letter", "memo",
+    "document", "documents", "others", "someone", "people", "government", "ministry", "agency",
+)
+_OTHER_PARTY_RE = re.compile(rf"\b(?:{'|'.join(CHARACTERISATION_VERBS + OTHER_SUBJECTS)})\b", re.I)
+_CAPITALISED_RE = re.compile(r"\b[A-Z]")
+
 _QUOTE_RE = re.compile(r"[\"“”]([^\"“”]+?)[\"“”]")
 _SENT_END_RE = re.compile(r"[.!?](?=\s|$)|\n\s*\n")
 _OTHER_PRESIDENT_RE = re.compile(r"\bPresident\s+([A-Z][\w'-]+)")
@@ -199,6 +220,8 @@ class Extractor:
         m = self._before_partial.search(before)
         if (m and not self._any_verb.search(m.group("gap"))
                 and not _QUOTE_RE.search(m.group("gap"))
+                and not _OTHER_PARTY_RE.search(m.group("gap"))
+                and not _CAPITALISED_RE.search(m.group("gap"))
                 and self._alias_ok(text, base + m.start("who"), base + m.end("who"))):
             return m.group(0)
         return None

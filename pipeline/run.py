@@ -28,6 +28,7 @@ from .fetch import FixtureFetcher, load_fixture_config
 from .models import (STATUS_PENDING, STATUS_PUBLISHED, STATUS_RETRACTED, Article, Statement,
                      parse_iso, utc_iso)
 from .verify import is_verbatim, normalize
+from .wires import apply_wire_groups
 
 GLOBE_WINDOW_HOURS = 24
 SCHEMA_VERSION = 1
@@ -149,7 +150,7 @@ def _build_statement(quote: str, group, carry, sources) -> Statement:
 def process(articles: list[Article], extractor: Extractor, published: list[Statement],
             pending: list[Statement], now: datetime, auto_publish: bool, log: DecisionLog):
     candidates = []
-    for a in articles:
+    for a in apply_wire_groups(articles):
         if parse_iso(a.published_at) > now:
             log("SKIP", f"{a.url}: published in the future relative to now")
             continue
