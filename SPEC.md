@@ -202,8 +202,8 @@ The centrepiece of the home screen. A globe (3D, for example `globe.gl` / three.
 **Pipeline impact.** The globe needs statements on **all** regions, not only Ukraine. So the pipeline:
 
 - collects and classifies Trump statements by region;
-- publishes **only Ukraine-related** ones to the feed and to push;
-- stores the rest only as aggregates for the globe: region, count, time of the latest one, one headline and one link.
+- publishes statements on **all** regions to the feed (filter by region), with the same verbatim and corroboration safeguards;
+- only Ukraine/war and Putin/Russia statements raise 🟠 and send push; other regions light up calm on the globe (decided 17 Oct 2026, see DECISIONS.md).
 
 Keep the cost in check: a cheaper model or batching for region classification, and a daily cap. Report the expected monthly API cost in the BA phase.
 
