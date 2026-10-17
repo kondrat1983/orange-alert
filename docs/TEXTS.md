@@ -28,8 +28,8 @@ Status: APPROVED by Kondrat on 17 Oct 2026 (mockup review). Further changes need
 
 | Where | UA | EN |
 |---|---|---|
-| «В укриття» subtitle | Сховатися від заяв на 24 години | Hide from statements for 24 hours |
-| In shelter | Ви в укритті до {time}. Тут тихо. | You're in the shelter until {time}. It's quiet here. |
+| Mute button (was «В укриття») | **Торкнутися трави** · вийти з інтернету на 24 години | **Touch grass** · leave the internet for 24 hours |
+| While muted | Ви на траві до {time}. Тут тихо. | You're on the grass until {time}. It's quiet here. |
 | Feed empty | Заяв немає. Підозріло. | No statements. Suspicious. |
 | "24 hours" counter | 24 години тривають уже {N} днів | The 24 hours have lasted {N} days |
 | "Two weeks" tracker, overdue | Два тижні минули {N} днів тому | The two weeks ended {N} days ago |

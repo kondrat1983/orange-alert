@@ -85,7 +85,7 @@ Before any backend, build a **clickable static mockup** in `mockup/` (plain HTML
 
 Screens:
 
-1. **Home:** big alert-level card, the globe (section 13), the Trump-day status line (section 14), last statement preview, 2–3 counters, "В укриття" (mute for 24 h) button.
+1. **Home:** big alert-level card, the globe (section 13), the Trump-day status line (section 14), last statement preview, 2–3 counters, "Торкнутися трави" / "Touch grass" (mute for 24 h) button.
 2. **Feed:** list of statements, filter by topic, search.
 3. **Statement detail:** verbatim quote (EN), translation (UA), date and time (Kyiv time), platform (speech, Truth Social, X, interview, press conference), topic tags, list of sources with links, "Повідомити про помилку" (report an error), share.
 4. **Notification settings:** on/off, topics, quiet hours.
@@ -139,7 +139,7 @@ Also needed:
 
 1. **Quotes are verbatim** and always shown in English next to the translation.
 2. **Paraphrases** ("Trump said Ukraine should…" without a direct quote) are allowed only with a clear "Переказ" badge and a source link, and never trigger 🟠 on their own.
-3. **No generated jokes about a real person.** All humour comes from fixed texts that Kondrat writes and approves: alert-level names, notification titles, empty states, the "В укриття" button, counter labels. Scripts only extract, classify and translate.
+3. **No generated jokes about a real person.** All humour comes from fixed texts that Kondrat writes and approves: alert-level names, notification titles, empty states, the "Торкнутися трави" button, counter labels. Scripts only extract, classify and translate.
 4. No invented quotes anywhere: not in data, tests, fixtures or the mockup.
 5. Every statement page links to its sources.
 6. The About page and footer say: satire, quotes are real, not affiliated with anyone.
