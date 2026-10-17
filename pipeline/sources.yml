@@ -1,0 +1,113 @@
+# Live sources for `python -m pipeline.run --live` (docs/SOURCES.md).
+#
+# Fields:
+#   type: rss | api (Guardian Content API)
+#   independence_group: corroboration group; `per_item` = take the outlet from the
+#     item's <source url> (Google News, discovery only)
+#   primary: primary source (counts as full corroboration on its own)
+#   verify: true = URL not yet confirmed; the feed health report in the first
+#     Actions run decides whether it stays (docs/SOURCES.md, "Required before go-live")
+#   domains: hosts whose article pages belong to this source (used to map Google
+#     News items and to decide which pages may be fetched)
+#   api_key_env: env var holding the API key; the source is skipped silently
+#     when the variable is not set. The key is never logged.
+
+sources:
+  - name: BBC News World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    type: rss
+    independence_group: bbc
+    primary: false
+    verify: false
+    domains: [bbc.co.uk, bbc.com]
+  - name: The Guardian
+    url: https://content.guardianapis.com/search?q=Trump%20AND%20(Ukraine%20OR%20Zelensky%20OR%20Putin)&show-fields=bodyText&order-by=newest&page-size=50
+    type: api
+    independence_group: guardian
+    primary: false
+    verify: false
+    api_key_env: GUARDIAN_API_KEY
+    domains: [theguardian.com]
+  - name: NPR Politics
+    url: https://feeds.npr.org/1014/rss.xml
+    type: rss
+    independence_group: npr
+    primary: false
+    verify: true
+    domains: [npr.org]
+  - name: Al Jazeera English
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    type: rss
+    independence_group: aljazeera
+    primary: false
+    verify: true
+    domains: [aljazeera.com]
+  - name: Kyiv Independent
+    url: https://kyivindependent.com/news-archive/rss/
+    type: rss
+    independence_group: kyivindependent
+    primary: false
+    verify: true
+    domains: [kyivindependent.com]
+  - name: Ukrainska Pravda EN
+    url: https://www.pravda.com.ua/eng/rss/
+    type: rss
+    independence_group: pravda
+    primary: false
+    verify: true
+    domains: [pravda.com.ua]
+  - name: Politico
+    url: https://rss.politico.com/politics-news.xml
+    type: rss
+    independence_group: politico
+    primary: false
+    verify: true
+    domains: [politico.com]
+  - name: Ukrinform EN
+    url: https://www.ukrinform.net/rss/block-lastnews
+    type: rss
+    independence_group: ukrinform
+    primary: false
+    verify: true
+    domains: [ukrinform.net]
+  - name: White House remarks
+    url: https://www.whitehouse.gov/remarks/feed/
+    type: rss
+    independence_group: whitehouse
+    primary: true
+    verify: true
+    domains: [whitehouse.gov]
+  - name: Google News - Trump Ukraine
+    url: https://news.google.com/rss/search?q=Trump+Ukraine&hl=en-US&gl=US&ceid=US:en
+    type: rss
+    independence_group: per_item   # take outlet from <source url>; discovery only
+    primary: false
+    verify: false
+  - name: Google News - Trump Zelensky
+    url: https://news.google.com/rss/search?q=Trump+Zelensky&hl=en-US&gl=US&ceid=US:en
+    type: rss
+    independence_group: per_item
+    primary: false
+    verify: false
+  - name: Google News - Trump Putin
+    url: https://news.google.com/rss/search?q=Trump+Putin&hl=en-US&gl=US&ceid=US:en
+    type: rss
+    independence_group: per_item
+    primary: false
+    verify: false
+
+# Never fetched (paywall / bot-hostile / no permission); only logged as links
+# when they reach us via Google News. domain: independence group
+link_only_domains:
+  reuters.com: reuters
+  apnews.com: ap
+  cnn.com: cnn
+  kyivpost.com: kyivpost
+  rollcall.com: factbase
+
+# Wire bylines that override the outlet's independence group.
+# Applied by pipeline/wires.py (kept in sync by hand).
+wire_markers:
+  ap: ["Associated Press", "(AP)"]
+  reuters: ["Reuters"]
+  afp: ["AFP", "Agence France-Presse"]
