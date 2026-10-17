@@ -34,3 +34,5 @@ Answers from the business-analyst phase (SPEC.md section 2). Newest at the botto
 | 2026-10-17 | Error-report contact | Dedicated project email (address TBD by Kondrat); never his personal address | |
 | 2026-10-17 | Pipeline schedule | Every 30 min (default; no API cost now) | Main-session default, not asked |
 | 2026-10-17 | Non-Ukraine days | Core mechanic: when his attention is elsewhere, the home screen reads as "we're safe, today {region} got it" (e.g. Greenland, California). Region name comes from data; the phrase itself is Kondrat's text | "US: domestic" may name a specific state (e.g. California) when the source states it |
+| 2026-10-17 | Joke texts | Claude drafts in the style of the "У Вашингтоні прокинувся Трамп. Масова евакуація з інтернету!" meme (official-bulletin tone, absurd instruction); Kondrat approves. Drafts in `docs/TEXTS.md` | Tone only; no red/siren look (SPEC 8) |
+| 2026-10-17 | Error-report contact | kondrat1983@gmail.com (Kondrat's choice) | Supersedes "dedicated project email". Public repo, so expect spam |
