@@ -1,6 +1,6 @@
 /* Orange Alert service worker: offline app shell, network-first for ./data/.
  * Bump VERSION when shell files change so old caches are dropped. */
-const VERSION = 'oa-v1';
+const VERSION = 'oa-v2';
 const SHELL = ['./', './index.html', './app.js', './style.css', './manifest.json',
   './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png'];
 const CDN = 'https://cdn.jsdelivr.net/npm/'; // pinned versions only, so cache-first is safe

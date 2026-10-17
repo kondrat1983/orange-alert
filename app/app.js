@@ -708,7 +708,6 @@
     const badges = ['<span class="badge region">' + esc(regionName(s.region, s.us_state)) + '</span>'];
     if (showsOrangeBadge(s)) badges.push('<span class="badge orange">🟠</span>');
     if (s.is_paraphrase) badges.push('<span class="badge paraphrase">' + esc(t('paraphrase')) + '</span>');
-    if (s.status === 'retracted') badges.push('<span class="badge retracted">' + esc(t('retracted', { reason: reasonText(s.retract_reason) })) + '</span>');
     (s.topics || []).forEach(tp => badges.push('<span class="badge">#' + esc(topicName(tp)) + '</span>'));
     const at = parseT(s.said_at);
     return '<a class="card item' + (s.status === 'retracted' ? ' retracted' : '') + '" href="#/s/' + encodeURIComponent(s.id) + '" data-id="' + esc(s.id) + '">' +
@@ -855,7 +854,10 @@
 
   // ---------- feed ----------
   function searchText(s) {
-    const parts = [s.quote_en, s.quote_uk, s.retract_reason, outlets(s)];
+    // Retracted items are searchable only by reason, the retracted label and outlets, never by the withdrawn quote.
+    const parts = s.status === 'retracted'
+      ? [s.retract_reason, T.uk.retracted.replace('{reason}', ''), T.en.retracted.replace('{reason}', ''), outlets(s)]
+      : [s.quote_en, s.quote_uk, outlets(s)];
     if (REGIONS[s.region]) parts.push(REGIONS[s.region].uk, REGIONS[s.region].en);
     if (s.us_state) parts.push(s.us_state, US_STATES[s.us_state] ? US_STATES[s.us_state][0] : '');
     (s.topics || []).forEach(tp => parts.push(tp, TOPICS[tp] ? TOPICS[tp].uk : '', TOPICS[tp] ? TOPICS[tp].en : ''));
