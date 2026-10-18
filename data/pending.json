@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T12:23:19Z",
+  "updated_at": "2026-10-18T16:03:26Z",
   "statements": [
+    {
+      "id": "st_1e29f777deeb",
+      "quote_en": "Peace comes only through strength and cooperation built on trust",
+      "quote_uk": "Мир надійшла тільки завдяки міцності та співпраці, побудованих на довірі",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T15:18:51Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/a-great-deal-depends-on-americas-position-zelensky-holds-call-with-trumps-peace-envoys-as-us-pivots-to-moscows-side/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_8e81efa0797d",
       "quote_en": "In an executive order signed on Friday, Trump said the waiver was in the US national interest.",
