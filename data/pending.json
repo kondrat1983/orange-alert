@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T18:45:43Z",
+  "updated_at": "2026-10-18T21:13:17Z",
   "statements": [
+    {
+      "id": "st_4d76c3bd5738",
+      "quote_en": "Zelensky is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States",
+      "quote_uk": "Зеленський використовує Дизельні Refineries в Росії як ціль, знаючи, що ці атаки серйозно болять світові дизельні ринки, включаючи ці США",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T21:03:32Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/i-want-this-war-end-trump-defends-pro-russian-policies-in-scathing-diatribe-against-zelensky-2/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_482c80029bcd",
       "quote_en": "BIBI NETANYAHU WILL NEVER LET YOU DOWN!",

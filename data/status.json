@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T18:45:43Z",
-  "now_washington": "2026-10-18T14:45:43-04:00",
-  "now_kyiv": "2026-10-18T21:45:43+03:00",
+  "generated_at": "2026-10-18T21:13:17Z",
+  "now_washington": "2026-10-18T17:13:17-04:00",
+  "now_kyiv": "2026-10-19T00:13:17+03:00",
   "auto_publish": true,
   "alert": {
     "level": "yellow",
-    "since": "2026-10-18T15:18:51Z",
+    "since": "2026-10-18T21:03:32Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
@@ -28,7 +28,7 @@
     "days_since_last_ukraine_statement": null,
     "last_ukraine_statement_id": null,
     "ukraine_statements_last_7_days": 0,
-    "days_since_24h_promise_baseline": 712,
+    "days_since_24h_promise_baseline": 713,
     "baseline_24h": "2024-11-05"
   }
 }
