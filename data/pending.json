@@ -1,7 +1,127 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T16:03:26Z",
+  "updated_at": "2026-10-18T18:45:43Z",
   "statements": [
+    {
+      "id": "st_482c80029bcd",
+      "quote_en": "BIBI NETANYAHU WILL NEVER LET YOU DOWN!",
+      "quote_uk": "БІ НЕТАНЯХУ НЕ БУДЕ!",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T16:36:26Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_66116cfdc071",
+      "quote_en": "I was always going to do that. I just didn’t want to do it too soon",
+      "quote_uk": "Я завжди збираюся зробити це. Я просто не хочу робити це занадто скоро",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T16:36:26Z",
+      "platform": "interview",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_92ae3dddb7c6",
+      "quote_en": "It is important that Israel has a person they can count on.",
+      "quote_uk": "Важливо, що Ізраїль має людину, яку вони можуть розраховувати.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T16:36:26Z",
+      "platform": "interview",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_380044190210",
+      "quote_en": "Maybe I will, maybe I won’t. Who wants to take the chance?",
+      "quote_uk": "Можливо, я не буду. Хто хоче прийняти шанс?",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T16:36:26Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_961ea5ba43f1",
+      "quote_en": "If Israel has the wrong Leader, which would be anyone other than Bibi, America will have to do this work ourselves, and I am not inclined to do so",
+      "quote_uk": "Якщо Ізраїль має неправомірний лідер, який буде будь-яким іншим, ніж Бібі, Америка повинна зробити цю роботу самостійно, і я не схильний до цього,",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T16:36:26Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_1e29f777deeb",
       "quote_en": "Peace comes only through strength and cooperation built on trust",
