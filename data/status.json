@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-18T12:23:19Z",
-  "now_washington": "2026-10-18T08:23:19-04:00",
-  "now_kyiv": "2026-10-18T15:23:19+03:00",
+  "generated_at": "2026-10-18T16:03:26Z",
+  "now_washington": "2026-10-18T12:03:26-04:00",
+  "now_kyiv": "2026-10-18T19:03:26+03:00",
   "auto_publish": true,
   "alert": {
-    "level": "green",
-    "since": null,
+    "level": "yellow",
+    "since": "2026-10-18T15:18:51Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "no statements about Ukraine recorded",
-    "based_on_uk": "заяв про Україну не зафіксовано",
-    "emoji": "🟢"
+    "based_on": "a statement about Ukraine is waiting for a second source (Kyiv Independent)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Kyiv Independent)",
+    "emoji": "🟡"
   },
   "day": {
     "at_mic_source": null,
