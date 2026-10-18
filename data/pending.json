@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T21:13:17Z",
+  "updated_at": "2026-10-18T23:27:07Z",
   "statements": [
+    {
+      "id": "st_ab1bf237b13d",
+      "quote_en": "I am in the process of negotiating Peace in the war between Russia and Ukraine",
+      "quote_uk": "Я в процесі переговорів миру в умовах війни між Росією та Україною",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T23:20:15Z",
+      "platform": "truth_social",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_4d76c3bd5738",
       "quote_en": "Zelensky is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States",
