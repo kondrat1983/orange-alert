@@ -1,7 +1,85 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T01:30:45Z",
+  "updated_at": "2026-10-19T06:42:14Z",
   "statements": [
+    {
+      "id": "st_9e43a96bd57b",
+      "quote_en": "Farmers, ranchers, and businesses of all kinds are suffering greatly from this, but Russia is, nevertheless, sending, at a low price",
+      "quote_uk": "Фермери, ранчо і підприємства всіх видів сильно страждають від цього, але Росія, однак, відправка, за низькою ціною",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-19T04:35:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4175738-trump-my-stance-on-russia-is-very-simple-as-he-explains-recent-actions.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_c0aaff4ddab2",
+      "quote_en": "He doesn’t want to end this war, and probably never did. He could have made a better deal two years ago than he can now",
+      "quote_uk": "Він не хоче закінчити цю війну, і, ймовірно, ніколи не зробив. Він може зробити кращу справу два роки тому, ніж він тепер",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-19T04:35:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4175738-trump-my-stance-on-russia-is-very-simple-as-he-explains-recent-actions.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_47b7c75098a3",
+      "quote_en": "Zelenskyy doesn’t care, and frankly, with all of the money that Europe is famously giving him… he doesn’t want to end this war, and probably never did",
+      "quote_uk": "Зеленський не піклується, і відверто, з усіма грошима, що Європа славиться даючи йому... Він не хоче закінчити цю війну, і, ймовірно, ніколи не зробив",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-19T03:10:05Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "aid"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+          "independence_group": "afp",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_ab1bf237b13d",
       "quote_en": "I am in the process of negotiating Peace in the war between Russia and Ukraine",
@@ -23,6 +101,56 @@
           "outlet": "BBC News World",
           "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
           "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_2df86303d23d",
+      "quote_en": "His country is in shambles, a large portion of his land is lost, his oceans and seas are gone, and his male population is low, wounded, and/or dead",
+      "quote_uk": "Його країна знаходиться в шламах, велика частина його землі втрачається, його океани і море, і його чоловіче населення низьке, рано, і / або померли",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T21:09:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "territory"
+      ],
+      "triggers_alert": true,
+      "victims_flag": true,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/19/8058659/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_30b52a2470c9",
+      "quote_en": "And I want to keep it that way, and will, unless stupid people get in the way",
+      "quote_uk": "І я хочу, щоб тримати це таким чином, і буде, якщо неприпустимо, люди отримують шлях",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-18T21:09:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/19/8058659/",
+          "independence_group": "pravda",
           "primary": false
         }
       ],
