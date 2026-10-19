@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-19T06:42:14Z",
-  "now_washington": "2026-10-19T02:42:14-04:00",
-  "now_kyiv": "2026-10-19T09:42:14+03:00",
+  "generated_at": "2026-10-19T14:15:55Z",
+  "now_washington": "2026-10-19T10:15:55-04:00",
+  "now_kyiv": "2026-10-19T17:15:55+03:00",
   "auto_publish": true,
   "alert": {
     "level": "yellow",
-    "since": "2026-10-19T04:35:00Z",
+    "since": "2026-10-19T11:15:43Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "a statement about Ukraine is waiting for a second source (Ukrinform EN)",
-    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Ukrinform EN)",
+    "based_on": "a statement about Ukraine is waiting for a second source (NPR Politics)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише NPR Politics)",
     "emoji": "🟡"
   },
   "day": {
