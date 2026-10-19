@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T20:03:02Z",
+  "updated_at": "2026-10-19T23:51:22Z",
   "statements": [
+    {
+      "id": "st_b37cf86d56e2",
+      "quote_en": "Russia, frankly, has been fine on Ukraine. They haven't been doing much",
+      "quote_uk": "Росія, відверто, на території України. Вони не роблять багато",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-19T20:25:22Z",
+      "platform": "press_conference",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_6b15b5b75a04",
+      "quote_en": "We also have a very good situation with respect to Iran. (Putin's) laying off Iran",
+      "quote_uk": "У нас є дуже гарна ситуація стосовно Ірану. (Putin's) прокладка Ірану",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-19T20:25:22Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_08f9f4c11060",
+      "quote_en": "Russia could have done a lot more to help Iran. Russia's done very little for Iran",
+      "quote_uk": "Росія може зробити більше, щоб допомогти Ірану. Росія дуже мало для Ірану",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-19T20:25:22Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_961ea5ba43f1",
       "quote_en": "If Israel has the wrong Leader, which would be anyone other than Bibi, America will have to do this work ourselves, and I am not inclined to do so",
