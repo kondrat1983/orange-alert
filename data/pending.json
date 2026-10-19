@@ -1,7 +1,60 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T06:42:14Z",
+  "updated_at": "2026-10-19T14:15:55Z",
   "statements": [
+    {
+      "id": "st_73d617608243",
+      "quote_en": "This conflict continues as President Trump says that relieving pressure on Russia is the best way to end the war.",
+      "quote_uk": "Цей конфлікт триває як президент Трамп каже, що посилює тиск на Росію є найкращим способом завершення війни.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-19T11:15:43Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_0429813c6c91",
+      "quote_en": "President Donald Trump said that he did not want to make decisions that could push Russia away from peace talks and accused Volodymyr Zelensky of being unwilling to end the war.",
+      "quote_uk": "Президент Дональд Трамп заявив, що він не хоче приймати рішення, які могли б відштовхнути Росію від мирних переговорів та обвинуватитити Володимира Зеленського від небажання закінчити війну.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-19T08:45:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4175836-us-delaying-delivery-of-patriot-missiles-already-paid-for-by-ukraine-zelensky.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_9e43a96bd57b",
       "quote_en": "Farmers, ranchers, and businesses of all kinds are suffering greatly from this, but Russia is, nevertheless, sending, at a low price",
