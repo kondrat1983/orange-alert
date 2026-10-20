@@ -1,7 +1,58 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T08:20:03Z",
+  "updated_at": "2026-10-20T13:45:14Z",
   "statements": [
+    {
+      "id": "st_4782d991dd44",
+      "quote_en": "President Donald Trump said that Russia, with U.S.",
+      "quote_uk": "Президент Дональд Трамп заявив, що Росія, з США",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-20T12:53:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176328-ukrainians-in-us-protest-easing-of-sanctions-on-russian-diesel-fuel.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_4d091a433a69",
+      "quote_en": "President Donald Trump said he did not want to make decisions that could push Russia away from peace negotiations and accused Volodymyr Zelensky of not wanting to end the war.",
+      "quote_uk": "Президент Дональд Трамп заявив, що він не хоче приймати рішення, які можуть відштовхувати Росію від мирних переговорів та обвинуватитити Володимира Зеленського не хочуть кінця війни.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-20T08:27:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176206-ukraine-is-a-partner-in-a-certain-sense-but-should-stop-striking-russian-oil-refineries-vance-says.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_3cef9991aaec",
       "quote_en": "We share intelligence. We share a lot. We’ve given a lot to Ukraine. You know what, we’ve given a lot to Ukraine. They’ve given nothing to us.",
@@ -331,33 +382,6 @@
           "outlet": "NPR Politics",
           "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
           "independence_group": "npr",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_0429813c6c91",
-      "quote_en": "President Donald Trump said that he did not want to make decisions that could push Russia away from peace talks and accused Volodymyr Zelensky of being unwilling to end the war.",
-      "quote_uk": "Президент Дональд Трамп заявив, що він не хоче приймати рішення, які могли б відштовхнути Росію від мирних переговорів та обвинуватитити Володимира Зеленського від небажання закінчити війну.",
-      "translation": "machine",
-      "is_paraphrase": true,
-      "said_at": "2026-10-19T08:45:00Z",
-      "platform": "unknown",
-      "region": "ukraine",
-      "us_state": null,
-      "topics": [
-        "war",
-        "peace_talks"
-      ],
-      "triggers_alert": true,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "Ukrinform EN",
-          "url": "https://www.ukrinform.net/rubric-polytics/4175836-us-delaying-delivery-of-patriot-missiles-already-paid-for-by-ukraine-zelensky.html",
-          "independence_group": "ukrinform",
           "primary": false
         }
       ],
