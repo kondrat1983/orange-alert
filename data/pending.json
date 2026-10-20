@@ -1,7 +1,187 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T18:14:56Z",
+  "updated_at": "2026-10-20T21:47:32Z",
   "statements": [
+    {
+      "id": "st_f962d29fa129",
+      "quote_en": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "quote_uk": "Трамп заявив, що підвіска санкцій Росії полягає у тому, щоб зберегти мирні переговори",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-20T21:27:39Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "peace_talks",
+        "sanctions"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_38932a059aca",
+      "quote_en": "In September, Trump said the United States hoped to reach a peace agreement with Iran within the next two months.",
+      "quote_uk": "У вересні Трамп заявив, що США сподівалися досягти мирного договору з Іраном протягом двох місяців.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-20T20:22:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176497-russia-may-have-shared-intelligence-with-iran-zelensky.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_bd48bf04a8e2",
+      "quote_en": "Zelensky's not a good guy for us to deal with",
+      "quote_uk": "Зеленський не хороший хлопець для нас, щоб боротися з",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T20:00:57Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_b235c43722e0",
+      "quote_en": "Zelensky doesn't know what he's talking about",
+      "quote_uk": "Зеленський не знає про те, що він говорить",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T20:00:57Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_9a45d76ab809",
+      "quote_en": "Roger Marshall is the leader who fought for that to happen",
+      "quote_uk": "Роджер Маршалл є лідером, який боровся за це",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T19:01:00Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/10/20/trump-farmers-payments-gop-midterms-01128165",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_8d73c1a7d501",
+      "quote_en": "With Roger Marshall in the Senate, we will make year-round E15 permanent. But if Adam Hamilton is in, I’m not doing it",
+      "quote_uk": "З Роджер Маршалл в Сенат, ми зробимо цілий рік E15 постійний. Але якщо Адам Гамільтон, я не робив його",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T19:01:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/10/20/trump-farmers-payments-gop-midterms-01128165",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e549e8437945",
+      "quote_en": "As previously reported, Trump said on October 11 that an energy ceasefire in the war between Russia and Ukraine had supposedly taken effect, urging both sides not to violate it.",
+      "quote_uk": "Як повідомлялося раніше, Трамп заявив 11 жовтня, що припинення вогню енергії в умовах війни між Росією та Україною нібито приймав ефект, що не порушувати його.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-20T18:27:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176475-zelensky-on-meeting-with-witkoff-there-are-proposals-on-ceasefire-natolike-security-guarantees.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_32dc7103bcc7",
       "quote_en": "Well, it’s possible",
