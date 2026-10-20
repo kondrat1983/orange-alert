@@ -1,7 +1,107 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T13:45:14Z",
+  "updated_at": "2026-10-20T18:14:56Z",
   "statements": [
+    {
+      "id": "st_32dc7103bcc7",
+      "quote_en": "Well, it’s possible",
+      "quote_uk": "Добре, це можливо",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T15:57:47Z",
+      "platform": "press_conference",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_0bd301792615",
+      "quote_en": "People that are against Tariffs are FOOLS!",
+      "quote_uk": "Народи, які проти Тарифів є FOOLS!",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T15:57:47Z",
+      "platform": "truth_social",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [
+        "tariffs"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_d7a01a93b029",
+      "quote_en": "A dividend of at least $2000 a person (not including high income people!) will be paid to everyone.",
+      "quote_uk": "Відрізок не менше 2000 доларів США (не включаючи високий дохід людей!) будуть оплачені всім.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T15:57:47Z",
+      "platform": "truth_social",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [
+        "tariffs"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_62af7a92b153",
+      "quote_en": "Even if he gets a percent or 2% or 3% percent with the phony ranked choice stuff, you never know what they're going to do with it",
+      "quote_uk": "Навіть якщо він отримує відсоток або 2% або 3% відсотків з фоніграмою, що поспішає зробити з ним",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T14:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Alaska",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/10/20/republicans-senate-worries-alaska-voting-rules-01127619",
+          "independence_group": "afp",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_4782d991dd44",
       "quote_en": "President Donald Trump said that Russia, with U.S.",
