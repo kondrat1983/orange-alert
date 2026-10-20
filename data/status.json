@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-20T08:20:03Z",
-  "now_washington": "2026-10-20T04:20:03-04:00",
-  "now_kyiv": "2026-10-20T11:20:03+03:00",
+  "generated_at": "2026-10-20T13:45:14Z",
+  "now_washington": "2026-10-20T09:45:14-04:00",
+  "now_kyiv": "2026-10-20T16:45:14+03:00",
   "auto_publish": true,
   "alert": {
-    "level": "orange",
-    "since": "2026-10-20T04:08:00Z",
-    "until": "2026-10-20T10:08:00Z",
-    "statement_id": "st_7589fd9cd6f6",
+    "level": "yellow",
+    "since": "2026-10-20T12:53:00Z",
+    "until": null,
+    "statement_id": null,
     "jokes_off": false,
-    "based_on": "statement about Ukraine at 07:08 Kyiv time (Ukrainska Pravda EN, Ukrinform EN)",
-    "based_on_uk": "заява про: Україна, о 07:08 за Києвом (за даними Ukrainska Pravda EN, Ukrinform EN)",
-    "emoji": "🟠"
+    "based_on": "a statement about Ukraine is waiting for a second source (Ukrinform EN)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Ukrinform EN)",
+    "emoji": "🟡"
   },
   "day": {
     "at_mic_source": null,
     "delay_note": true,
-    "state": "awake",
-    "emoji": "☀️",
-    "statement_id": "st_7589fd9cd6f6",
+    "state": "asleep",
+    "emoji": "😴",
+    "statement_id": null,
     "region": null,
     "us_state": null,
-    "based_on": "first statement at 00:08 Washington time (Ukrainska Pravda EN, Ukrinform EN)",
-    "based_on_uk": "перший пост о 00:08 за Вашингтоном (за даними Ukrainska Pravda EN, Ukrinform EN)"
+    "based_on": "no public statements detected since 05:00 Washington time",
+    "based_on_uk": "з 05:00 за Вашингтоном публічних заяв не виявлено"
   },
   "counters": {
     "days_since_last_ukraine_statement": 0,
