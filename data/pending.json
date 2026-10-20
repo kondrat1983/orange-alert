@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T23:51:22Z",
+  "updated_at": "2026-10-20T02:59:46Z",
   "statements": [
+    {
+      "id": "st_9ec5575ed069",
+      "quote_en": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+      "quote_uk": "Іран війни жити: Трамп говорить про те, що в США є Іран важко «економічно і воєнно»",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-20T00:00:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_b37cf86d56e2",
       "quote_en": "Russia, frankly, has been fine on Ukraine. They haven't been doing much",
