@@ -1,5 +1,39 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T02:59:46Z",
-  "statements": []
+  "updated_at": "2026-10-20T08:20:03Z",
+  "statements": [
+    {
+      "id": "st_7589fd9cd6f6",
+      "quote_en": "I think it's time for somebody else to negotiate on behalf of Ukraine",
+      "quote_uk": "Я думаю, що це час для когось іншого, щоб обговорити від імені України",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T04:08:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/20/8058845/",
+          "independence_group": "pravda",
+          "primary": false
+        },
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176098-trump-ready-to-discuss-ending-ukraine-war-with-putin-xi.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "published",
+      "retract_reason": null
+    }
+  ]
 }

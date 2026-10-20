@@ -1,7 +1,138 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T02:59:46Z",
+  "updated_at": "2026-10-20T08:20:03Z",
   "statements": [
+    {
+      "id": "st_3cef9991aaec",
+      "quote_en": "We share intelligence. We share a lot. We’ve given a lot to Ukraine. You know what, we’ve given a lot to Ukraine. They’ve given nothing to us.",
+      "quote_uk": "Ми ділимося знаннями. Ми ділимося багато. Ми звернулися до України. Ви знаєте, що ми надали багато в Україні. На жаль, нічого не сподобалося.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T07:58:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176188-hegseth-delays-approval-of-patriot-missile-transfers-to-ukraine-but-has-not-rejected-them-wp.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_b37cf86d56e2",
+      "quote_en": "Russia, frankly, has been fine on Ukraine. They haven't been doing much",
+      "quote_uk": "Росія, відверто, на території України. Вони не роблять багато",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T07:18:06Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": true,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-rubio-discuss-critical-military-systems-amid-us-ukraine-tensions/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        },
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_3de2f0a1adc2",
+      "quote_en": "Zelenskyy is a man that should have had settled this war a long time ago. If he would’ve listened to me, he would have made a much better deal a long time ago",
+      "quote_uk": "Зеленський – це людина, яка повинна була влаштувати цю війну вже давно. Якщо він слухав мене, він зробив набагато краще справу, тому",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T06:23:44Z",
+      "platform": "press_conference",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
+          "independence_group": "afp",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1318f064271b",
+      "quote_en": "anything I can do to end the war, whether somebody's there or not.",
+      "quote_uk": "Що я можу закінчити війну, чи є хтось?",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T04:08:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176098-trump-ready-to-discuss-ending-ukraine-war-with-putin-xi.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a9d7a2dd01c5",
+      "quote_en": "If President Xi wants to have it [the meeting], I'd have it. I'm sure we'd talk about other things like trade too. But yeah, I would do that",
+      "quote_uk": "Якщо президент Xi хоче мати його [поради], то у мене є. Я впевнений, що ми говоримо про інші речі, такі як торгівля. Але ви, я б зробити це",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T04:08:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4176098-trump-ready-to-discuss-ending-ukraine-war-with-putin-xi.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_9ec5575ed069",
       "quote_en": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
@@ -22,30 +153,6 @@
           "outlet": "Al Jazeera English",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
           "independence_group": "aljazeera",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_b37cf86d56e2",
-      "quote_en": "Russia, frankly, has been fine on Ukraine. They haven't been doing much",
-      "quote_uk": "Росія, відверто, на території України. Вони не роблять багато",
-      "translation": "machine",
-      "is_paraphrase": false,
-      "said_at": "2026-10-19T20:25:22Z",
-      "platform": "press_conference",
-      "region": "ukraine",
-      "us_state": null,
-      "topics": [],
-      "triggers_alert": true,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "Kyiv Independent",
-          "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
-          "independence_group": "kyivindependent",
           "primary": false
         }
       ],
@@ -94,6 +201,32 @@
           "outlet": "Kyiv Independent",
           "url": "https://kyivindependent.com/what-russias-doing-to-ukraine-is-fine-trump-says/",
           "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_588bed5e0038",
+      "quote_en": "Details: Trump also said it might be time for Ukrainian President Volodymyr Zelenskyy to put someone else in charge of negotiations.",
+      "quote_uk": "Детальніше: Трамп також заявив, що це може бути час для Президента України Володимира Зеленського, щоб поставити когось іншого на переговори.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-19T20:17:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/19/8058825/",
+          "independence_group": "pravda",
           "primary": false
         }
       ],
