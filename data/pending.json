@@ -1,7 +1,83 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T21:47:32Z",
+  "updated_at": "2026-10-21T00:19:54Z",
   "statements": [
+    {
+      "id": "st_66530a76cf71",
+      "quote_en": "Zelenskyy has to want to settle this war, and if he doesn’t, I think it’s going to be a very bad thing",
+      "quote_uk": "Зеленський хоче поселити цю війну, і якщо він не, я думаю, що це буде дуже погано",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T22:20:13Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_21b5c0f8acda",
+      "quote_en": "He’s going to have to want to make a deal, because I don’t think his people are going to stand for it any longer",
+      "quote_uk": "Він повинен мати справу, тому що я не думаю, що його люди будуть стояти більше",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T22:20:13Z",
+      "platform": "press_conference",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_6e7ae5909c80",
+      "quote_en": "It’s hard for them to be in the same room",
+      "quote_uk": "Важко для них бути в одному номері",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T22:20:13Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_f962d29fa129",
       "quote_en": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
@@ -23,6 +99,30 @@
           "outlet": "BBC News World",
           "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
           "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_9e0e41c00d33",
+      "quote_en": "More than 300 Million Dollars has already been spent on Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity, and more",
+      "quote_uk": "Більше 300 мільйонів доларів вже витрачаються на рекламу, прямі та непрямі Voter Contact, мітинги, Rally Arenas, Telerallies, отримайте програми Vote, доброчесність виборів та багато іншого",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-20T21:27:38Z",
+      "platform": "speech",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+          "independence_group": "reuters",
           "primary": false
         }
       ],
