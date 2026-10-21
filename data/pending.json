@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T19:29:31Z",
+  "updated_at": "2026-10-21T22:37:36Z",
   "statements": [
+    {
+      "id": "st_7c242b4f0351",
+      "quote_en": "I’m asking everyone in South Carolina to get out and vote for a wonderful person, a great woman … a woman that Lindsey Graham said is the greatest person he’s ever met",
+      "quote_uk": "Я запитаю всіх в Південній Кароліні, щоб вийти і голосувати за чудовою людиною, велика жінка ... жінка, яка Ліндсі Грехем - це найбільша людина, яка коли-небудь зустрілася",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T21:07:43Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "South Carolina",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_d857a5ad7f2b",
+      "quote_en": "What do you think? Of course I will, but we don't want cheating.",
+      "quote_uk": "Що ви думаєте? Звичайно я буду, але ми не хочемо обдурити.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T19:47:18Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_77facc9e041b",
       "quote_en": "on his way back home",
