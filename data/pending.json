@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T05:06:53Z",
+  "updated_at": "2026-10-21T10:24:54Z",
   "statements": [
+    {
+      "id": "st_f129f9f864e2",
+      "quote_en": "They don't have to be in the same room. I guess I can do it another way. It's hard for them to be in the same room. I don't care how it's done",
+      "quote_uk": "Вони не повинні бути в одному номері. Я думаю, що я можу зробити це іншим способом. Важко для них бути в одному номері. Я не доглядав, як це зроблено",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T06:59:36Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/us-envoy-steve-witkoff-lands-in-st-petersburg-for-russia-peace-talks-2/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_2fa0295f4b93",
+      "quote_en": "but I would like to find out",
+      "quote_uk": "але я хотів би дізнатися",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T06:02:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/21/8059017/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_66530a76cf71",
       "quote_en": "Zelenskyy has to want to settle this war, and if he doesn’t, I think it’s going to be a very bad thing",
@@ -41,30 +89,6 @@
       "topics": [
         "peace_talks"
       ],
-      "triggers_alert": true,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
-          "independence_group": "aljazeera",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_6e7ae5909c80",
-      "quote_en": "It’s hard for them to be in the same room",
-      "quote_uk": "Важко для них бути в одному номері",
-      "translation": "machine",
-      "is_paraphrase": false,
-      "said_at": "2026-10-20T22:20:13Z",
-      "platform": "unknown",
-      "region": "ukraine",
-      "us_state": null,
-      "topics": [],
       "triggers_alert": true,
       "victims_flag": false,
       "sources": [
