@@ -1,7 +1,153 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T10:24:54Z",
+  "updated_at": "2026-10-21T15:28:51Z",
   "statements": [
+    {
+      "id": "st_2b904d80b7ce",
+      "quote_en": "The only reason that communities throughout the USA should not want Data Centers is if they want to end up being backwards and poor",
+      "quote_uk": "Єдина причина, що громади по всій території США не повинні шукати Центри даних, якщо вони хочуть закінчити резервні копії та бідні",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T15:09:33Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_19f3b9e8bb6a",
+      "quote_en": "The pledge, which Trump says will go through accounts with his name, comes two weeks before the US midterms.",
+      "quote_uk": "Застава, яка Трамп каже, буде йти через рахунки з його ім'ям, настає два тижні до середини США.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-21T14:41:03Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [
+        "deadline"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_77facc9e041b",
+      "quote_en": "on his way back home",
+      "quote_uk": "на шляху назад додому",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T13:49:50Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_cd7e9d19e94a",
+      "quote_en": "Watch what happens",
+      "quote_uk": "Дивитися те, що відбувається",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T13:49:50Z",
+      "platform": "press_conference",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_7139fbfdffe6",
+      "quote_en": "we have been focused ⁠on ​Hubbard",
+      "quote_uk": "Ми зосередилися на Hubbard",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T13:49:50Z",
+      "platform": "press_conference",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_dec747ed5659",
+      "quote_en": "US President Donald Trump said on Tuesday that he had raised Hubbard's case during a conversation with Kremlin ruler Vladimir Putin.",
+      "quote_uk": "Президент США Дональд Трамп заявив у вівторок, що він підняв справу Хаббарда під час розмови з Кремлем Володимиром Путіним.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-21T09:50:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/21/8059048/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_f129f9f864e2",
       "quote_en": "They don't have to be in the same room. I guess I can do it another way. It's hard for them to be in the same room. I don't care how it's done",
