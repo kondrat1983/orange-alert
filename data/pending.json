@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T15:28:51Z",
+  "updated_at": "2026-10-21T19:29:31Z",
   "statements": [
+    {
+      "id": "st_77facc9e041b",
+      "quote_en": "on his way back home",
+      "quote_uk": "на шляху назад додому",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-21T17:42:34Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        },
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_2b904d80b7ce",
       "quote_en": "The only reason that communities throughout the USA should not want Data Centers is if they want to end up being backwards and poor",
@@ -46,30 +76,6 @@
           "outlet": "Al Jazeera English",
           "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
           "independence_group": "aljazeera",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_77facc9e041b",
-      "quote_en": "on his way back home",
-      "quote_uk": "на шляху назад додому",
-      "translation": "machine",
-      "is_paraphrase": false,
-      "said_at": "2026-10-21T13:49:50Z",
-      "platform": "unknown",
-      "region": "russia",
-      "us_state": null,
-      "topics": [],
-      "triggers_alert": true,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "BBC News World",
-          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-          "independence_group": "bbc",
           "primary": false
         }
       ],
