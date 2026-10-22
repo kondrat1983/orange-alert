@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-21T22:37:36Z",
-  "now_washington": "2026-10-21T18:37:36-04:00",
-  "now_kyiv": "2026-10-22T01:37:36+03:00",
+  "generated_at": "2026-10-22T01:09:29Z",
+  "now_washington": "2026-10-21T21:09:29-04:00",
+  "now_kyiv": "2026-10-22T04:09:29+03:00",
   "auto_publish": true,
   "alert": {
-    "level": "yellow",
-    "since": "2026-10-21T17:42:34Z",
+    "level": "green",
+    "since": null,
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "a statement about Ukraine is waiting for a second source (BBC News World)",
-    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише BBC News World)",
-    "emoji": "🟡"
+    "based_on": "no new statements about Ukraine since 07:08 Kyiv time, 20.10",
+    "based_on_uk": "нових заяв про Україну немає з 07:08 за Києвом, 20.10",
+    "emoji": "🟢"
   },
   "day": {
     "at_mic_source": null,
