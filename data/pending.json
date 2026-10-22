@@ -1,7 +1,103 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T20:43:04Z",
+  "updated_at": "2026-10-22T23:49:43Z",
   "statements": [
+    {
+      "id": "st_5fae9d50eb41",
+      "quote_en": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "quote_uk": "Трамп заявив, що Муск відреставрував доступ до мережі Starlink",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-22T21:42:39Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_0839930105e6",
+      "quote_en": "Watch: Trump says Musk has restored Ukraine's Starlink internet access after row",
+      "quote_uk": "Дивитися: Трамп каже Муск відреставрував доступ до Інтернету Starlink після ряду",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-22T21:42:39Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_b9f1c16cb3a9",
+      "quote_en": "The US outlet reported that Trump told Musk he was frustrated the Starlink system's speeds were still capped at around 160km/h, according to officials.",
+      "quote_uk": "У зв'язку з тим, що Трамп заявив про те, що він був розчарований швидкістю системи Starlink, як і раніше захопив близько 160 км/год.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-22T21:42:39Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e69744755c20",
+      "quote_en": "So sad to see the beloved Central Park Horse-drawn Carriage Industry ending after over a Century, based largely on one tragic accident",
+      "quote_uk": "Так сумний, щоб побачити улюблену Центральний парк Кінно-розвантажувальну промисловість, що закінчується після того, як століття, на основі великої кількості на одній трагічної аварії",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-22T20:46:05Z",
+      "platform": "truth_social",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_adfa3644ba6b",
       "quote_en": "During his 2024 presidential campaign, Trump said he would declassify troves of files kept by the Federal Bureau of Investigation (FBI) about Epstein and his global network of contacts.",
