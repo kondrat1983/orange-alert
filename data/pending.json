@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T01:09:29Z",
+  "updated_at": "2026-10-22T06:19:41Z",
   "statements": [
     {
       "id": "st_7c242b4f0351",
@@ -20,6 +20,32 @@
           "outlet": "Al Jazeera English",
           "url": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
           "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_69a120965c73",
+      "quote_en": "Trump says end of war is closer than ever before",
+      "quote_uk": "Трамп каже кінець війни, ніж коли-небудь до",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-21T20:41:00Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/21/8059148/",
+          "independence_group": "pravda",
           "primary": false
         }
       ],
