@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T17:27:36Z",
+  "updated_at": "2026-10-22T20:43:04Z",
   "statements": [
+    {
+      "id": "st_adfa3644ba6b",
+      "quote_en": "During his 2024 presidential campaign, Trump said he would declassify troves of files kept by the Federal Bureau of Investigation (FBI) about Epstein and his global network of contacts.",
+      "quote_uk": "Під час своєї кампанії 2024 Трамп заявив, що він декласифікує трофи файлів, що зберігаються Федеральним бюро розслідувань (FBI) про Епштейн та його глобальну мережу контактів.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-22T20:05:22Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1686c5256e72",
+      "quote_en": "She’s a fanatical transgender activist",
+      "quote_uk": "Вболівальник",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-22T19:31:47Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_7c242b4f0351",
       "quote_en": "I’m asking everyone in South Carolina to get out and vote for a wonderful person, a great woman … a woman that Lindsey Graham said is the greatest person he’s ever met",
