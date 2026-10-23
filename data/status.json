@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-22T23:49:43Z",
-  "now_washington": "2026-10-22T19:49:43-04:00",
-  "now_kyiv": "2026-10-23T02:49:43+03:00",
+  "generated_at": "2026-10-23T02:56:31Z",
+  "now_washington": "2026-10-22T22:56:31-04:00",
+  "now_kyiv": "2026-10-23T05:56:31+03:00",
   "auto_publish": true,
   "alert": {
     "level": "yellow",
-    "since": "2026-10-22T21:42:39Z",
+    "since": "2026-10-23T01:46:40Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "a statement about Ukraine is waiting for a second source (BBC News World)",
-    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише BBC News World)",
+    "based_on": "a statement about Ukraine is waiting for a second source (Al Jazeera English)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Al Jazeera English)",
     "emoji": "🟡"
   },
   "day": {
