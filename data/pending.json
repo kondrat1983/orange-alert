@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T02:56:31Z",
+  "updated_at": "2026-10-23T08:12:34Z",
   "statements": [
     {
       "id": "st_c72aea12b957",
@@ -46,6 +46,54 @@
           "outlet": "Al Jazeera English",
           "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
           "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_b69a9a7d6b6f",
+      "quote_en": "After several days of uncertainty, Trump said on Thursday 22 October that the service was operating again at full speed.",
+      "quote_uk": "Після декількох днів невизначеності, Трамп сказав у четвер 22 жовтня, що сервіс знову працює на повній швидкості.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-23T01:16:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/",
+          "independence_group": "ap",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_ccafebf0344a",
+      "quote_en": "As recently as Thursday, Trump insisted that he had not issued such an order.",
+      "quote_uk": "У четвер, коли Трамп наполягав, що він не видав такого замовлення.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-23T01:16:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059323/",
+          "independence_group": "ap",
           "primary": false
         }
       ],
