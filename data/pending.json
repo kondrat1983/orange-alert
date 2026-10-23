@@ -1,7 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T13:41:14Z",
+  "updated_at": "2026-10-23T18:04:19Z",
   "statements": [
+    {
+      "id": "st_cefe7d86a5cb",
+      "quote_en": "I'd get home, I'd say, 'First lady, I had the most wonderful talk with Vladimir. I think we're finished'",
+      "quote_uk": "Я даю додому, я скажу, \"Перша леді, я мав найбільш дивну розмову з Володимиром. Я думаю, що ми закінчили",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T16:59:51Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_9906a26a6a20",
+      "quote_en": "I think it’s one of the greatest things we’ve done. We’ve stopped Iran from having a nuclear weapon",
+      "quote_uk": "Я думаю, що це одне з найбільших речей, які ми зробили. Ми припинили Іран з ядерної зброї",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T15:51:29Z",
+      "platform": "press_conference",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "weapons"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_42eeb37b6d84",
+      "quote_en": "Trump claims Starlink issues in Ukraine are resolved but ready to call Musk",
+      "quote_uk": "Трамп стверджує, що питання Starlink в Україні вирішуються, але готові викликати Муску",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-23T15:38:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059453/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_2d298a442015",
+      "quote_en": "Details: Trump also said that he had not spoken with Elon Musk regarding Ukraine's access to Starlink services.",
+      "quote_uk": "Детальніше: Трамп також заявив, що він не говорив з Елоном Муским про доступ України до сервісів Starlink.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-23T15:38:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059453/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_7499c2d26d0f",
+      "quote_en": "I have not spoken to him",
+      "quote_uk": "Я не сказав йому",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T15:19:32Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-vows-to-fix-ukraines-starlink-problems-if-they-continue-may-call-musk/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_c5230f300745",
+      "quote_en": "Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and 1,000,000 Tons immediately thereafter",
+      "quote_uk": "Росія негайно поставить понад 300 000 тонн дизельного палива на американський і глобальний ринок, ще 500 000 тонн протягом місяця листопада, і 1,000,000 тонн відразу після цього",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T14:31:29Z",
+      "platform": "truth_social",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/exclusive-ukraine-fears-trump-could-grant-russia-long-sought-relief-for-fertilizer-industry/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_63b5756c2a45",
+      "quote_en": "If there is a problem, I’ll get it straightened out",
+      "quote_uk": "Якщо є проблема, я отримаю його",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T13:39:06Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_9e98673df8d7",
       "quote_en": "US President Donald Trump said on Thursday that tech mogul Elon Musk had restored access to the satellite internet service, which plays a key role in Kyiv’s war effort and air defences.",
