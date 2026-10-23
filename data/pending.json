@@ -1,15 +1,41 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T08:12:34Z",
+  "updated_at": "2026-10-23T13:41:14Z",
   "statements": [
     {
-      "id": "st_c72aea12b957",
-      "quote_en": "I don’t want to comment on it, whether I called or whether somebody else called, doesn’t make any difference, I guess. The bottom line, he put it back",
-      "quote_uk": "Я не хочу прокоментувати, чи я назвав, чи хтось інший, не робить ніякої різниці, я думаю. У нижній лінії він кладе його назад",
+      "id": "st_9e98673df8d7",
+      "quote_en": "US President Donald Trump said on Thursday that tech mogul Elon Musk had restored access to the satellite internet service, which plays a key role in Kyiv’s war effort and air defences.",
+      "quote_uk": "Президент США Дональд Трамп заявив, що в четвер, що tech mogul Elon Musk був відновлений доступ до супутникового інтернет-сервісу, який грає ключову роль у воєнних зусиллях та повітряних захистах Києва.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-23T12:16:50Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_6b5a1720539e",
+      "quote_en": "Whether I called or whether somebody else called, doesn’t make any difference",
+      "quote_uk": "Якщо я назвав, чи хтось інший, не робить ніякої різниці",
       "translation": "machine",
       "is_paraphrase": false,
-      "said_at": "2026-10-23T01:46:40Z",
-      "platform": "press_conference",
+      "said_at": "2026-10-23T10:48:24Z",
+      "platform": "unknown",
       "region": "ukraine",
       "us_state": null,
       "topics": [],
@@ -17,9 +43,57 @@
       "victims_flag": false,
       "sources": [
         {
-          "outlet": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
-          "independence_group": "reuters",
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/analysis-ukraines-starshield-access-is-still-crippled-soldiers-civilians-are-paying-the-price/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_f9ac003f80ee",
+      "quote_en": "Trump promised to stop these illegal crossings during his 2024 election campaign, and in large parts he has delivered.",
+      "quote_uk": "Трамп пообіцяв припинити ці незаконні переправи під час своєї виборчої кампанії 2024, а у великих частинах він доставив.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-23T09:23:53Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Texas",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_8981011ba6d7",
+      "quote_en": "I know Jay well, and he is a TOTAL WINNER, on and off the field!",
+      "quote_uk": "Я знаю Джей добре, і він є TOTAL WINNER, на і off поле!",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T09:00:00Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/10/23/trump-feely-friends-arizona-battleground-01133434",
+          "independence_group": "politico",
           "primary": false
         }
       ],
