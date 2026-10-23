@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T23:49:43Z",
+  "updated_at": "2026-10-23T02:56:31Z",
   "statements": [
+    {
+      "id": "st_c72aea12b957",
+      "quote_en": "I don’t want to comment on it, whether I called or whether somebody else called, doesn’t make any difference, I guess. The bottom line, he put it back",
+      "quote_uk": "Я не хочу прокоментувати, чи я назвав, чи хтось інший, не робить ніякої різниці, я думаю. У нижній лінії він кладе його назад",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T01:46:40Z",
+      "platform": "press_conference",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a804bbee1d6f",
+      "quote_en": "He doesn’t want to end this war, and probably never did",
+      "quote_uk": "Він не хоче закінчити цю війну, і, ймовірно, ніколи не зробив",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-23T01:46:40Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_5fae9d50eb41",
       "quote_en": "Trump says Musk has restored access to Ukraine's Starlink network",
