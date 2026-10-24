@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T09:15:34Z",
-  "now_washington": "2026-10-24T05:15:34-04:00",
-  "now_kyiv": "2026-10-24T12:15:34+03:00",
+  "generated_at": "2026-10-24T13:27:56Z",
+  "now_washington": "2026-10-24T09:27:56-04:00",
+  "now_kyiv": "2026-10-24T16:27:56+03:00",
   "auto_publish": true,
   "alert": {
     "level": "yellow",
-    "since": "2026-10-24T05:00:00Z",
+    "since": "2026-10-24T11:59:00Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,

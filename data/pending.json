@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T09:15:34Z",
+  "updated_at": "2026-10-24T13:27:56Z",
   "statements": [
+    {
+      "id": "st_1caf28f981d5",
+      "quote_en": "Tehran, Iran – Iran’s armed forces say they are prepared to fire on United States warships as President Donald Trump said Washington was still deliberating new attacks or continued pressure on Iran.",
+      "quote_uk": "Тегеран, Іран – збройні сили Ірану кажуть, що вони готують до пожежі на військових кораблях США, як президент Дональд Трамп заявив, що Вашингтон все ще знеболюючи нові атаки або продовжив тиск на Іран.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-24T13:06:03Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_cf16fc23afc1",
+      "quote_en": "President Donald Trump said that every time he speaks with Russian leader Vladimir Putin, he tells him that it is time to stop and end the war against Ukraine.",
+      "quote_uk": "Президент Дональд Трамп заявив, що кожен раз він говорить з російським лідером Володимира Путіна, він говорить його, що це час, щоб зупинити і закінчити війну проти України.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-24T11:59:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4177791-zelensky-on-his-relationship-with-trump-i-dont-play-games-with-him.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_f0100a183139",
       "quote_en": "But we don't buy enough to do it for them",
