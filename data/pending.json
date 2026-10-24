@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T04:52:41Z",
+  "updated_at": "2026-10-24T09:15:34Z",
   "statements": [
+    {
+      "id": "st_f0100a183139",
+      "quote_en": "But we don't buy enough to do it for them",
+      "quote_uk": "Але ми не купуємо для них",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-24T05:00:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4177699-trump-floats-possibility-of-imposing-200-tariffs-on-ukraine-and-russia-to-force-peace.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_60b5beeac4ef",
       "quote_en": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire between Russia and Ukraine in the Ukrainian city of Oleshky, which has been under Russian occupation for four years.",
