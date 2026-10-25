@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T23:56:27Z",
-  "now_washington": "2026-10-24T19:56:27-04:00",
-  "now_kyiv": "2026-10-25T02:56:27+03:00",
+  "generated_at": "2026-10-25T02:53:28Z",
+  "now_washington": "2026-10-24T22:53:28-04:00",
+  "now_kyiv": "2026-10-25T04:53:28+02:00",
   "auto_publish": true,
   "alert": {
     "level": "green",
