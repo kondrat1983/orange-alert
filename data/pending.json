@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T23:56:27Z",
+  "updated_at": "2026-10-25T02:53:28Z",
   "statements": [
+    {
+      "id": "st_78cf095a152c",
+      "quote_en": "Trump says the US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+      "quote_uk": "Трамп заявив, що США розглядає можливість атаки на Іран, як тільки неділі, або це може досягти великої угоди з Тегеран.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-25T00:00:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_1caf28f981d5",
       "quote_en": "Tehran, Iran – Iran’s armed forces say they are prepared to fire on United States warships as President Donald Trump said Washington was still deliberating new attacks or continued pressure on Iran.",
