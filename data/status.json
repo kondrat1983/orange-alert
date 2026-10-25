@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-25T13:17:18Z",
-  "now_washington": "2026-10-25T09:17:18-04:00",
-  "now_kyiv": "2026-10-25T15:17:18+02:00",
+  "generated_at": "2026-10-25T17:09:06Z",
+  "now_washington": "2026-10-25T13:09:06-04:00",
+  "now_kyiv": "2026-10-25T19:09:06+02:00",
   "auto_publish": true,
   "alert": {
-    "level": "orange",
-    "since": "2026-10-25T10:51:00Z",
-    "until": "2026-10-25T16:51:00Z",
+    "level": "white",
+    "since": "2026-10-25T16:51:00Z",
+    "until": "2026-10-25T17:51:00Z",
     "statement_id": "st_fffa16fa982c",
     "jokes_off": false,
-    "based_on": "statement about Ukraine at 12:51 Kyiv time (Ukrainska Pravda EN, Ukrinform EN)",
-    "based_on_uk": "заява про: Україна, о 12:51 за Києвом (за даними Ukrainska Pravda EN, Ukrinform EN)",
-    "emoji": "🟠"
+    "based_on": "6 h since the last statement about Ukraine at 12:51 Kyiv time (Ukrainska Pravda EN, Ukrinform EN)",
+    "based_on_uk": "минуло 6 год після: заява про: Україна, о 12:51 за Києвом (за даними Ukrainska Pravda EN, Ukrinform EN)",
+    "emoji": "⚪"
   },
   "day": {
     "at_mic_source": null,
