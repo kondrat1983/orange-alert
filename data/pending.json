@@ -1,27 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T08:01:57Z",
+  "updated_at": "2026-10-25T13:17:18Z",
   "statements": [
     {
-      "id": "st_c7ff004f14a3",
-      "quote_en": "We'd like to get back to life where Russia and Ukraine make a deal, and then we'd be able to do business with both",
-      "quote_uk": "Ми хочемо, щоб повернутися до життя, де Росія та Україна роблять угоду, а потім ми зможемо зробити бізнес як",
+      "id": "st_a6629d760413",
+      "quote_en": "it could happen",
+      "quote_uk": "це може статися",
       "translation": "machine",
       "is_paraphrase": false,
-      "said_at": "2026-10-25T05:45:00Z",
+      "said_at": "2026-10-25T10:51:00Z",
       "platform": "unknown",
       "region": "ukraine",
       "us_state": null,
-      "topics": [
-        "peace_talks"
-      ],
+      "topics": [],
       "triggers_alert": true,
       "victims_flag": false,
       "sources": [
         {
-          "outlet": "Ukrinform EN",
-          "url": "https://www.ukrinform.net/rubric-polytics/4177905-trump-says-us-ready-to-do-business-with-ukraine-and-russia-after-war.html",
-          "independence_group": "ukrinform",
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/25/8059622/",
+          "independence_group": "pravda",
           "primary": false
         }
       ],
@@ -29,12 +27,38 @@
       "retract_reason": null
     },
     {
-      "id": "st_fffa16fa982c",
-      "quote_en": "I think she's doing better than the professionals right now. She got a ceasefire. This has to do with children and people, elderly people",
-      "quote_uk": "Я думаю, що це краще, ніж професіонали прямо зараз. Вона припинила вогонь. Для дітей та людей, людей похилого віку",
+      "id": "st_b6f0a5029f1d",
+      "quote_en": "Certainly, we'll do business with Ukraine and with Russia after this war ends, I would think",
+      "quote_uk": "І ми зробимо бізнес з Україною і з Росією після закінчення цієї війни, я думаю,",
       "translation": "machine",
       "is_paraphrase": false,
-      "said_at": "2026-10-25T05:45:00Z",
+      "said_at": "2026-10-25T09:52:48Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-wants-business-with-both-ukraine-russia-after-war-ends/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_94c47023fc1c",
+      "quote_en": "get back to life where Russia and Ukraine make a deal, and then we'd be able to do business with both.",
+      "quote_uk": "Повернутися до життя, де Росія та Україна роблять угоду, а потім ми зможемо зробити бізнес з обох сторін.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-25T09:52:48Z",
       "platform": "unknown",
       "region": "ukraine",
       "us_state": null,
@@ -45,9 +69,33 @@
       "victims_flag": false,
       "sources": [
         {
-          "outlet": "Ukrinform EN",
-          "url": "https://www.ukrinform.net/rubric-polytics/4177905-trump-says-us-ready-to-do-business-with-ukraine-and-russia-after-war.html",
-          "independence_group": "ukrinform",
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-wants-business-with-both-ukraine-russia-after-war-ends/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_5e43197fd089",
+      "quote_en": "I feel foolish because all you had to do is ask them, and they would have paid. Meaning the EU would have paid",
+      "quote_uk": "Я відчував себе, тому що все, що ви повинні зробити, просити їх, і вони будуть сплачені. У зв’язку з виплатою ЄС",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-25T09:52:48Z",
+      "platform": "unknown",
+      "region": "eu_nato",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-wants-business-with-both-ukraine-russia-after-war-ends/",
+          "independence_group": "kyivindependent",
           "primary": false
         }
       ],
