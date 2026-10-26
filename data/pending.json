@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T05:42:32Z",
+  "updated_at": "2026-10-26T12:04:58Z",
   "statements": [
+    {
+      "id": "st_7986e27a8f3f",
+      "quote_en": "I hope Nicki wasn't insulted, but we love Nicki. She's been with us for a long time.",
+      "quote_uk": "Я сподіваюся Nicki не змогла, але ми любимо Nicki. Ми з нами",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T09:22:36Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+          "independence_group": "ap",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_1d90f4d74120",
       "quote_en": "He would be the only senator that will have to go through a metal detector before he’s allowed to go into the Senate",
