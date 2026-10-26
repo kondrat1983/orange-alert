@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T18:47:01Z",
+  "updated_at": "2026-10-26T22:59:47Z",
   "statements": [
+    {
+      "id": "st_1d90f4d74120",
+      "quote_en": "He would be the only senator that will have to go through a metal detector before he’s allowed to go into the Senate",
+      "quote_uk": "Він буде єдиним сенатором, який повинен пройти через металошукач, перш ніж він дозволив перейти в Сенат",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T20:17:09Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        },
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_69a16836bc7b",
       "quote_en": "Details: US President Donald Trump said Russia must immediately deliver more than 300,000 tonnes of diesel (about 2.25 million barrels), followed by another 500,000 tonnes in November and then one million tonnes.",
@@ -44,30 +74,6 @@
           "outlet": "NPR Politics",
           "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
           "independence_group": "ap",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_1d90f4d74120",
-      "quote_en": "He would be the only senator that will have to go through a metal detector before he’s allowed to go into the Senate",
-      "quote_uk": "Він буде єдиним сенатором, який повинен пройти через металошукач, перш ніж він дозволив перейти в Сенат",
-      "translation": "machine",
-      "is_paraphrase": false,
-      "said_at": "2026-10-26T04:03:28Z",
-      "platform": "speech",
-      "region": "us_domestic",
-      "us_state": null,
-      "topics": [],
-      "triggers_alert": false,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
-          "independence_group": "aljazeera",
           "primary": false
         }
       ],
