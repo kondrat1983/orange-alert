@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T05:42:32Z",
-  "now_washington": "2026-10-26T01:42:32-04:00",
-  "now_kyiv": "2026-10-26T07:42:32+02:00",
+  "generated_at": "2026-10-26T12:04:58Z",
+  "now_washington": "2026-10-26T08:04:58-04:00",
+  "now_kyiv": "2026-10-26T14:04:58+02:00",
   "auto_publish": true,
   "alert": {
     "level": "green",
@@ -16,13 +16,13 @@
   "day": {
     "at_mic_source": null,
     "delay_note": true,
-    "state": "awake",
-    "emoji": "☀️",
-    "statement_id": "st_fffa16fa982c",
+    "state": "asleep",
+    "emoji": "😴",
+    "statement_id": null,
     "region": null,
     "us_state": null,
-    "based_on": "first statement at 06:51 Washington time (Ukrainska Pravda EN, Ukrinform EN)",
-    "based_on_uk": "перший пост о 06:51 за Вашингтоном (за даними Ukrainska Pravda EN, Ukrinform EN)"
+    "based_on": "no public statements detected since 05:00 Washington time",
+    "based_on_uk": "з 05:00 за Вашингтоном публічних заяв не виявлено"
   },
   "counters": {
     "days_since_last_ukraine_statement": 1,
