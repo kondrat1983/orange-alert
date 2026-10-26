@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T12:04:58Z",
+  "updated_at": "2026-10-26T18:47:01Z",
   "statements": [
+    {
+      "id": "st_69a16836bc7b",
+      "quote_en": "Details: US President Donald Trump said Russia must immediately deliver more than 300,000 tonnes of diesel (about 2.25 million barrels), followed by another 500,000 tonnes in November and then one million tonnes.",
+      "quote_uk": "Детальніше: Президент США Дональд Трамп заявив, що Росія повинна негайно доставити більше 300 000 тонн дизеля (близько 2,25 млн. бочок), а потім ще 500 000 тонн у листопаді, а потім один мільйон тонн.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-26T14:33:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/26/8059779/",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_7986e27a8f3f",
       "quote_en": "I hope Nicki wasn't insulted, but we love Nicki. She's been with us for a long time.",
