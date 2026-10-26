@@ -1,7 +1,273 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T00:31:54Z",
+  "updated_at": "2026-10-26T05:42:32Z",
   "statements": [
+    {
+      "id": "st_1d90f4d74120",
+      "quote_en": "He would be the only senator that will have to go through a metal detector before he’s allowed to go into the Senate",
+      "quote_uk": "Він буде єдиним сенатором, який повинен пройти через металошукач, перш ніж він дозволив перейти в Сенат",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_88a2b447553e",
+      "quote_en": "So Abdul… also wants our country to go to Sharia law, and if he ever pulls that off, he should be the first one that’s tried. I’ll be a witness",
+      "quote_uk": "Так Абдул ... також хоче, щоб наша країна була в законі Шарії, і якщо він коли-небудь витягне, він повинен бути першим, хто спробував. Я буде свідком",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e7a87f960258",
+      "quote_en": "I’m here to keep a jihadist Muslim Brotherhood member from becoming a United States senator",
+      "quote_uk": "Я тут, щоб тримати мусульманського братства у складі Сполучених Штатів",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a589b2ff0d78",
+      "quote_en": "a total and complete shutdown of Muslims entering the United States",
+      "quote_uk": "повне відключення мусульмани, що надходять до США",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_f79f0141aca1",
+      "quote_en": "If Abdul and the Democrats win, they will open the floodgates and invite hordes of jihadists to our shores, creating a nightmare of violence and terror until you cannot even have a Christmas",
+      "quote_uk": "Якщо Абдул і демократи виграють, вони відкриють повені і запрошують ордистів на наші береги, створюючи кошмари насильства і терору, поки не не можна навіть мати Різдво",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_cad275ba0826",
+      "quote_en": "I made that decision, and I have no second guess",
+      "quote_uk": "Я зробив це рішення, і я не маю другого здогадки",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1a14c8d8cafc",
+      "quote_en": "The number one state sponsor of terror is Iran by far, and we had to make sure they didn’t have a nuclear weapon",
+      "quote_uk": "На даний момент ми повинні переконатися, що вони не мають ядерної зброї",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "weapons"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_fc459895b98a",
+      "quote_en": "Our country is making hundreds of billions of dollars because of what’s happened in the Middle East, because they’re coming to Texas, and they’re coming to Oklahoma, and they’re coming to Louisiana, and they’re taking that oil",
+      "quote_uk": "Наша країна складає сотні мільярдів доларів через те, що сталося на Близькому Сході, оскільки вони приїдуть до Техасу, і вони приїдуть до Оклагоми, і вони приїдуть до Луїзіана, і вони приймають цю нафту",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_d5e9d9bd08d6",
+      "quote_en": "I looked at his a**, and I’ve never done that with a man before. Women? Yes. Men? No",
+      "quote_uk": "Я дивився на свій ***, і я ніколи не зробив, що з людиною до. Жінки? Так. Чоловіки? Ні",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_ebae4f92931a",
+      "quote_en": "By the way, I looked at one hell of a beautiful a** before: Nicki Minaj. That’s hard to miss",
+      "quote_uk": "До речі, я дивився на одному пеклі красивого a** перед: Нікі Мінай. Це важко пропустити",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-26T04:03:28Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_5483d33ae347",
+      "quote_en": "She never looked more beautiful",
+      "quote_uk": "Вона ніколи не виглядала більш красивим",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-25T23:33:19Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_a6629d760413",
       "quote_en": "it could happen",
