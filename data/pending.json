@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T18:52:18Z",
+  "updated_at": "2026-10-27T22:49:15Z",
   "statements": [
+    {
+      "id": "st_0c57fba7fe90",
+      "quote_en": "We’re celebrating the greatest oil victory in history",
+      "quote_uk": "Ми святкуємо найбільшу перемогу нафти в історії",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-27T21:28:33Z",
+      "platform": "speech",
+      "region": "venezuela",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_dea5c63988a4",
+      "quote_en": "If you go out, and if you all vote, we win in a landslide",
+      "quote_uk": "Якщо ви вийшли, і якщо ви всі голоси, ми переможемо в землі",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-27T21:28:33Z",
+      "platform": "speech",
+      "region": "venezuela",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_5cf53dc48a45",
+      "quote_en": "9, Trump said that Russia had agreed to supply millions of tons of diesel fuel to the U.S.",
+      "quote_uk": "9 Трамп заявив, що Росія домовилася про надання мільйонів тонн дизельного палива до США",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-27T21:01:25Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-reportedly-considering-lifting-sanctions-against-russias-investment-fund/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_d827560be5e8",
       "quote_en": "To have to give advanced notices to a judge who has no expertise in Golf, Architecture, Landscaping, Construction, or anything else having to do with building such a World Class Project, is not fair, appropriate, or Constitutional",
