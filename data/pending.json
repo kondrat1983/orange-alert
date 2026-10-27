@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T07:11:24Z",
+  "updated_at": "2026-10-27T13:28:33Z",
   "statements": [
+    {
+      "id": "st_11fff7316910",
+      "quote_en": "Sometimes when you think somebody's doing so well, nobody votes",
+      "quote_uk": "Коли ви думаєте, що це зробити так добре, ніхто голосує",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-27T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Mississippi",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_3c2d9cc5fc08",
       "quote_en": "The prime minister of Pakistan – terrific man – said that Donald Trump was responsible for saving 30 million lives and probably many more than that",
