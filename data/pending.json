@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T13:28:33Z",
+  "updated_at": "2026-10-27T18:52:18Z",
   "statements": [
+    {
+      "id": "st_d827560be5e8",
+      "quote_en": "To have to give advanced notices to a judge who has no expertise in Golf, Architecture, Landscaping, Construction, or anything else having to do with building such a World Class Project, is not fair, appropriate, or Constitutional",
+      "quote_uk": "Для того, щоб надати передові повідомлення судді, який не має досвіду в гольф, Архітектура, ландшафтний дизайн, будівництво або що-небудь інше, що має зробити з будівництвом такого проекту світового класу, не є справедливим, відповідним або Конституційним",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-27T17:01:37Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
+          "independence_group": "afp",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_11fff7316910",
       "quote_en": "Sometimes when you think somebody's doing so well, nobody votes",
@@ -19,6 +43,30 @@
         {
           "outlet": "NPR Politics",
           "url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_87dfcda64345",
+      "quote_en": "In 2016, Trump said he'd won the popular vote - he just won the Electoral College - when you discount millions of illegal votes.",
+      "quote_uk": "У 2016 році Трамп заявив, що він виграв популярний голос - він тільки виграв еклектальний коледж - коли ви знижуєте мільйони незаконних голосів.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-27T08:48:04Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6013555/congressional-democrats-are-forming-a-task-force-to-protect-election-results",
           "independence_group": "npr",
           "primary": false
         }
