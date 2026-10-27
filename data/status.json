@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-27T18:52:18Z",
-  "now_washington": "2026-10-27T14:52:18-04:00",
-  "now_kyiv": "2026-10-27T20:52:18+02:00",
+  "generated_at": "2026-10-27T22:49:15Z",
+  "now_washington": "2026-10-27T18:49:15-04:00",
+  "now_kyiv": "2026-10-28T00:49:15+02:00",
   "auto_publish": true,
   "alert": {
-    "level": "green",
-    "since": null,
+    "level": "yellow",
+    "since": "2026-10-27T21:01:25Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "no new statements about Ukraine since 12:51 Kyiv time, 25.10",
-    "based_on_uk": "нових заяв про Україну немає з 12:51 за Києвом, 25.10",
-    "emoji": "🟢"
+    "based_on": "a statement about Ukraine is waiting for a second source (Kyiv Independent)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Kyiv Independent)",
+    "emoji": "🟡"
   },
   "day": {
     "at_mic_source": null,
@@ -25,10 +25,10 @@
     "based_on_uk": "з 05:00 за Вашингтоном публічних заяв не виявлено"
   },
   "counters": {
-    "days_since_last_ukraine_statement": 2,
+    "days_since_last_ukraine_statement": 3,
     "last_ukraine_statement_id": "st_fffa16fa982c",
     "ukraine_statements_last_7_days": 1,
-    "days_since_24h_promise_baseline": 721,
+    "days_since_24h_promise_baseline": 722,
     "baseline_24h": "2024-11-05"
   }
 }
