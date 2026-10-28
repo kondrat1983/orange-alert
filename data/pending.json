@@ -1,7 +1,83 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T08:00:53Z",
+  "updated_at": "2026-10-28T15:17:28Z",
   "statements": [
+    {
+      "id": "st_a3c965682b7f",
+      "quote_en": "There was the incident involving the Ryazan oil refinery (on Oct. 15). There were other operations as well. We targeted data centers and locations where Russian ballistic missiles are concentrated",
+      "quote_uk": "За участю раязанської нафтопереробки (на 15 жовтня). Також були інші операції. Ми націлені дата-центри та місця, де зосереджені російські балісти",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-28T11:47:25Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "weapons"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-paused-attacks-on-oil-refineries-for-3-days-as-russia-continued-strikes-on-energy-infrastructure-zelensky-says/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_4045a515e8f9",
+      "quote_en": "Trump promised to make efforts to secure the missiles, Zelensky said, but noted that the U.S.",
+      "quote_uk": "Трамп пообіцяв зробити зусилля для забезпечення ракет, сказав Зеленський, але зазначив, що США",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-28T10:04:13Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "weapons"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-receives-12-patriot-missiles-per-month-from-us-zelensky-says/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_69dbbbc63685",
+      "quote_en": "We're making a lot of progress with Russia-Ukraine. There'll be a meeting set up very soon",
+      "quote_uk": "Ми робимо багато прогресу з Росією-Україна. Дуже скоро зустріч",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-28T09:58:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4178904-trump-says-zelensky-and-putin-will-meet-very-soon.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_cc35732fce23",
       "quote_en": "a lot of progress",
