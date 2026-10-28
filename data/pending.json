@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T01:58:42Z",
+  "updated_at": "2026-10-28T08:00:53Z",
   "statements": [
+    {
+      "id": "st_cc35732fce23",
+      "quote_en": "a lot of progress",
+      "quote_uk": "багато прогресу",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-28T06:01:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/28/8060022/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_0c57fba7fe90",
       "quote_en": "We’re celebrating the greatest oil victory in history",
