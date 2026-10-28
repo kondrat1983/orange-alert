@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T15:17:28Z",
+  "updated_at": "2026-10-28T20:26:45Z",
   "statements": [
+    {
+      "id": "st_6d0342a77a91",
+      "quote_en": "President Donald Trump said a meeting between Ukrainian President Volodymyr Zelensky and Russian leader Vladimir Putin was expected to take place soon.",
+      "quote_uk": "Президент Дональд Трамп провів зустріч між президентом України Володимиром Зеленським та російським лідером Володимиром Путіним.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-28T16:00:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4179088-zelensky-says-he-does-not-know-when-he-could-meet-with-putin.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_a3c965682b7f",
       "quote_en": "There was the incident involving the Ryazan oil refinery (on Oct. 15). There were other operations as well. We targeted data centers and locations where Russian ballistic missiles are concentrated",
