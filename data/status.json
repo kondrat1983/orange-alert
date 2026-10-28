@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T15:17:28Z",
-  "now_washington": "2026-10-28T11:17:28-04:00",
-  "now_kyiv": "2026-10-28T17:17:28+02:00",
+  "generated_at": "2026-10-28T20:26:45Z",
+  "now_washington": "2026-10-28T16:26:45-04:00",
+  "now_kyiv": "2026-10-28T22:26:45+02:00",
   "auto_publish": true,
   "alert": {
     "level": "yellow",
-    "since": "2026-10-28T11:47:25Z",
+    "since": "2026-10-28T16:00:00Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "a statement about Ukraine is waiting for a second source (Kyiv Independent)",
-    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Kyiv Independent)",
+    "based_on": "a statement about Ukraine is waiting for a second source (Ukrinform EN)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Ukrinform EN)",
     "emoji": "🟡"
   },
   "day": {
