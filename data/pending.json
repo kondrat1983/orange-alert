@@ -1,7 +1,105 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T06:09:17Z",
+  "updated_at": "2026-10-29T13:29:01Z",
   "statements": [
+    {
+      "id": "st_c4f77f843280",
+      "quote_en": "We negotiated with Russia to stop the war with Ukraine, and we have been pretty happy with Russia that they have not gotten involved with Iran",
+      "quote_uk": "Ми зустрілися з Росією, щоб зупинити війну з Україною, і ми дуже задоволені Росією, що вони не взяли участі в Ірані",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-29T13:00:39Z",
+      "platform": "press_conference",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/putins-two-war-advantage-over-trump/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_69bc720cc49d",
+      "quote_en": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
+      "quote_uk": "Що ми знаємо про листа Vance до Rezaei, оскільки Трамп попереджає затоку до «препарату»",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-29T11:41:44Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_38dacbc43cbf",
+      "quote_en": "The outreach comes as Trump warns the US’s Gulf allies to prepare themselves for a brief, high-intensity military campaign after next week’s US midterm elections, according to the Journal.",
+      "quote_uk": "Про це заявив Трамп, як Трамп попереджає, що союзники затоки США, щоб підготувати себе до коротких, високоінтенсивних військових кампаній після середньострокових виборів наступного тижня, за даними журналу.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-29T11:41:44Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a7263d9e23ec",
+      "quote_en": "Why has Trump warned Gulf states to ‘prepare’?",
+      "quote_uk": "Чому Трамп попередив затоку до «пропа»?",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-29T11:41:44Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_6d0342a77a91",
       "quote_en": "President Donald Trump said a meeting between Ukrainian President Volodymyr Zelensky and Russian leader Vladimir Putin was expected to take place soon.",
