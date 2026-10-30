@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T23:29:02Z",
+  "updated_at": "2026-10-30T02:49:16Z",
   "statements": [
+    {
+      "id": "st_e1bd87ec3bee",
+      "quote_en": "We’re going to have a strong Tuesday night",
+      "quote_uk": "Ми будемо мати сильну ніч у вівторок",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T00:44:50Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Iowa",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_88418a0ab3a2",
+      "quote_en": "Oh, you’re sick to ask that question. You are sick",
+      "quote_uk": "О, ви хворіли, щоб запитати це питання. Ви хворі",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T00:44:50Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Iowa",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_28335bf0c3f9",
+      "quote_en": "I don’t feel I have to go to Kansas",
+      "quote_uk": "Я не відчуваю, що я повинен йти в Канзас",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T00:44:50Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Kansas",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_c4f77f843280",
       "quote_en": "We negotiated with Russia to stop the war with Ukraine, and we have been pretty happy with Russia that they have not gotten involved with Iran",
