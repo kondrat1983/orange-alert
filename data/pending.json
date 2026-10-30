@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T09:26:55Z",
+  "updated_at": "2026-10-30T16:09:16Z",
   "statements": [
+    {
+      "id": "st_9c4407c69db6",
+      "quote_en": "I don't think he's doing a very good job",
+      "quote_uk": "Я не думаю, що він робить дуже гарну роботу",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T14:48:22Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_b71c0e89e733",
+      "quote_en": "I just want to find 11,780 votes, which is one more than we have",
+      "quote_uk": "Я просто хочу знайти 11,780 голосів, що є одним більше, ніж у нас є",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T12:09:03Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Georgia",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_3174d1f1d31b",
       "quote_en": "It was a scheme. It was an election fraud. Total election fraud",
