@@ -1,7 +1,61 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T02:49:16Z",
+  "updated_at": "2026-10-30T09:26:55Z",
   "statements": [
+    {
+      "id": "st_3174d1f1d31b",
+      "quote_en": "It was a scheme. It was an election fraud. Total election fraud",
+      "quote_uk": "Це була схема. Він був шахрайським голосуванням. Загальний шахрайство виборів",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T06:36:11Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_28335bf0c3f9",
+      "quote_en": "I don’t feel I have to go to Kansas",
+      "quote_uk": "Я не відчуваю, що я повинен йти в Канзас",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T06:36:11Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Kansas",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        },
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_e1bd87ec3bee",
       "quote_en": "We’re going to have a strong Tuesday night",
@@ -36,30 +90,6 @@
       "platform": "unknown",
       "region": "us_domestic",
       "us_state": "Iowa",
-      "topics": [],
-      "triggers_alert": false,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
-          "independence_group": "aljazeera",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_28335bf0c3f9",
-      "quote_en": "I don’t feel I have to go to Kansas",
-      "quote_uk": "Я не відчуваю, що я повинен йти в Канзас",
-      "translation": "machine",
-      "is_paraphrase": false,
-      "said_at": "2026-10-30T00:44:50Z",
-      "platform": "unknown",
-      "region": "us_domestic",
-      "us_state": "Kansas",
       "topics": [],
       "triggers_alert": false,
       "victims_flag": false,
