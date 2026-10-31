@@ -1,7 +1,83 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T20:57:48Z",
+  "updated_at": "2026-10-31T00:25:50Z",
   "statements": [
+    {
+      "id": "st_e4e49ebafff1",
+      "quote_en": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+      "quote_uk": "Іранська війна жити: олійні танкери в Гормузі; Трамп каже, що конфлікт скоротиться",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-31T00:00:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_f29161b7ce63",
+      "quote_en": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will ‘get wrapped up soon’.",
+      "quote_uk": "IRGC каже чотири танкери, які потрапили в Страйт Хормузи, оскільки Трамп каже, що війна на Ірані буде «загортатися».",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-31T00:00:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e15645c15fcb",
+      "quote_en": "Golf balls soar through the holes at high speed and hit unexpecting Golfers — including a White House staffer who was, sadly, hit violently in the chest",
+      "quote_uk": "Гольфові кульки засихають через отвори на високій швидкості і вдаряють невибагливі гольфи — в тому числі білий будинок, який був, сумно, вдарив нам міцно в грудях",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-10-30T21:56:52Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_9c4407c69db6",
       "quote_en": "I don't think he's doing a very good job",
