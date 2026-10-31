@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T00:25:50Z",
+  "updated_at": "2026-10-31T06:05:00Z",
   "statements": [
+    {
+      "id": "st_4b6c131768ff",
+      "quote_en": "Trump tells voters to send El-Sayed ‘back to where he came from’",
+      "quote_uk": "Трамп заявив, що виборці, які надсилають «звороту, де він прийшов»",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-31T05:07:25Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_beeee93f2aef",
+      "quote_en": "Speaking at a campaign rally, Donald Trump told voters to send Michigan’s Abdul El-Sayed ‘back to where he came from’.",
+      "quote_uk": "Про це заявив Дональд Трамп, що виборці висловили Авдуль Ель-Сайд, де він вийшов з нього.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-31T05:07:25Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": "Michigan",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1fbe2e85afc7",
+      "quote_en": "Trump argues these import taxes boost US manufacturing and create jobs - essentially seeking to protect US workers who could face similar fates to those in Témiscaming.",
+      "quote_uk": "Трамп стверджує, що ці імпортні податки підвищують видобуток США і створюють робочі місця - по суті, прагнучи захистити американських працівників, які могли зіткнутися з аналогічними долями для тих, хто в Témiscaming.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-31T02:39:25Z",
+      "platform": "unknown",
+      "region": "canada",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_e4e49ebafff1",
       "quote_en": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
