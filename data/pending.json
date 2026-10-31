@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T17:29:17Z",
+  "updated_at": "2026-10-31T20:37:42Z",
   "statements": [
+    {
+      "id": "st_f3a4e6cefcb5",
+      "quote_en": "President Donald Trump said on October 28 that a meeting between Ukrainian President Volodymyr Zelensky and Russian President Vladimir Putin was expected to take place soon.",
+      "quote_uk": "Президент Дональд Трамп заявив, що 28 жовтня відбулася зустріч між Президентом України Володимиром Зеленським та президентом РФ Володимиром Путіним.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-10-31T17:28:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4180099-zelensky-erdogan-discuss-possibility-of-holding-peace-talks-in-turkiye.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_4b6c131768ff",
       "quote_en": "Trump tells voters to send El-Sayed ‘back to where he came from’",
