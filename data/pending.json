@@ -1,7 +1,281 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T03:47:51Z",
+  "updated_at": "2026-11-01T10:58:28Z",
   "statements": [
+    {
+      "id": "st_1ee62e1382df",
+      "quote_en": "We have the biggest rallies ever in history",
+      "quote_uk": "Ми маємо найбільші мітинги в історії",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_cea48d5bb1bc",
+      "quote_en": "Please pretend I'm on the ballot cause in a way I am on the ballot, because they want to do away with all of the tremendous things we've done. The tax cuts, the border",
+      "quote_uk": "Будь ласка, попередив я на балоту причину, як я на балоті, тому що вони хочуть, щоб зробити все з величезних речей, які ми зробили. Податки зрізів, кордон",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [
+        "territory"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_2bddba3409a8",
+      "quote_en": "Tariffs. The tariffs. My favorite word",
+      "quote_uk": "Тарифи. Тарифи. Моє улюблене слово",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [
+        "tariffs"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_52f613a93b9d",
+      "quote_en": "So, I'm studying him and I made the mistake of saying that I started off by studying his ass",
+      "quote_uk": "Так, я навчаю його, і я зробив помилку сказати, що я почав вчитися його",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a44eb8848094",
+      "quote_en": "The audience loved it. By the way, [Husted] went up 12 points that day",
+      "quote_uk": "Аудиторія любила її. До речі, [Husted] пішов до 12 точок, які день",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1a204d2f4ada",
+      "quote_en": "Maybe I should do that with Ken Paxton, but I'm not sure your body is going to qualify",
+      "quote_uk": "Може бути, я повинен зробити це з Ken Paxton, але я не впевнений, що ваше тіло буде кваліфікувати",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_2c8b2b397248",
+      "quote_en": "You have the crowds",
+      "quote_uk": "У вас є натовпи",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a9cf73e2b030",
+      "quote_en": "We've been doing this together for 11 years and there's never been anything like it and there probably never will be anything like it again, politically or otherwise",
+      "quote_uk": "Ми робимо це разом 11 років і ніколи не були нічого подібного, і, ймовірно, ніколи не буде нічого подібного, політично чи інакше",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "speech",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a6a4086e6736",
+      "quote_en": "I thought this was it. I thought I could relax. 28 days in a row of this crap is a lot. It's a lot",
+      "quote_uk": "Я думав це. Я думав, що я можу розслабитися. 28 днів в рядку цієї клапи дуже багато. Це багато",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T09:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [
+        "deadline"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_fec07d4aa700",
+      "quote_en": "Yes, I would. No problem.",
+      "quote_uk": "Так, я б. Немає проблеми.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T05:45:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4180160-trump-says-he-will-invite-zelensky-to-g20-summit.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_f3e01b62fa13",
+      "quote_en": "I think we're getting close to reaching a deal there. I have not been saying that. I can say that now....",
+      "quote_uk": "Я думаю, що ми отримуємо близько, щоб досягнути угоди. Я не сказав, що. Я можу сказати, що зараз...",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-01T05:00:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4180157-trump-says-peace-deal-between-ukraine-and-russia-getting-closer.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_f3a4e6cefcb5",
       "quote_en": "President Donald Trump said on October 28 that a meeting between Ukrainian President Volodymyr Zelensky and Russian President Vladimir Putin was expected to take place soon.",
