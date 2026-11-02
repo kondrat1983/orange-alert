@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T17:19:04Z",
+  "updated_at": "2026-11-02T23:58:59Z",
   "statements": [
+    {
+      "id": "st_f7649bf7c910",
+      "quote_en": "It looks like that’s coming together very nicely",
+      "quote_uk": "Як виглядає так, що разом дуже приємно",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-02T18:49:26Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_ff950f037553",
       "quote_en": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
