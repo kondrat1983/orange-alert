@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T00:57:22Z",
+  "updated_at": "2026-11-02T07:13:00Z",
   "statements": [
+    {
+      "id": "st_ff950f037553",
+      "quote_en": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+      "quote_uk": "Трамп каже, що шахрайство проголосників США є «рампантом» - стверджує, що він надзвичайно рідкісний",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-02T04:04:28Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_08d661317f89",
       "quote_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
