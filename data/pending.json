@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T13:27:49Z",
+  "updated_at": "2026-11-03T20:14:18Z",
   "statements": [
+    {
+      "id": "st_0577e59e3afa",
+      "quote_en": "Background: On 9 October, Trump said he had spoken to Putin and reached an agreement with him on supplies of Russian diesel fuel to the US and global markets.",
+      "quote_uk": "На Закарпатті: 9 жовтня Трамп заявив, що він говорив до Путіна і отримав угоду з ним про постачання російського дизельного палива до США та глобальних ринків.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-03T17:18:00Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061094/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_71144386ff3f",
+      "quote_en": "you will have a 1929 style economic depression",
+      "quote_uk": "ви будете мати 1929 стиль економічної депресії",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-03T17:00:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": "Florida",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/11/03/poll-gop-voters-economy-midterms-01145083",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_f7649bf7c910",
       "quote_en": "It looks like that’s coming together very nicely",
