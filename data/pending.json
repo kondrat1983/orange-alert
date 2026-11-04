@@ -1,7 +1,81 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T15:39:08Z",
+  "updated_at": "2026-11-04T21:40:52Z",
   "statements": [
+    {
+      "id": "st_c9cfce7e96c0",
+      "quote_en": "broke for President Trump in historical numbers [in 2024] … had to make a hard change because their paycheck wasn't moving fast and far enough for them",
+      "quote_uk": "зламав президента Трампа в історичних числах [в 2024] ... довелося зробити важку зміну, тому що їхня виплата не була переміщена швидко і досить далеко за них",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T19:30:40Z",
+      "platform": "interview",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/11/04/this-is-an-earthquake-latino-voters-rush-back-to-democrats-01149510",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a8fb80f37ac9",
+      "quote_en": "I did the right thing. I would have done it again.",
+      "quote_uk": "Я зробив право. Я зробив це знову.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T15:28:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_f901f3ab2bbd",
+      "quote_en": "I wasn’t on the ticket",
+      "quote_uk": "Я не був у квитку",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T15:28:00Z",
+      "platform": "interview",
+      "region": "us_domestic",
+      "us_state": "New York",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_1a6e927e0758",
       "quote_en": "I wasn't on the Ballot and if I was, we would have won IN A LANDSLIDE! Thank you for your attention to this matter",
