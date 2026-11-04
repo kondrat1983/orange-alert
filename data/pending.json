@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T07:10:19Z",
+  "updated_at": "2026-11-04T15:39:08Z",
   "statements": [
+    {
+      "id": "st_1a6e927e0758",
+      "quote_en": "I wasn't on the Ballot and if I was, we would have won IN A LANDSLIDE! Thank you for your attention to this matter",
+      "quote_uk": "Я не був на Балоті і якщо я був, ми виграли в LANDSLIDE! Дякуємо за вашу увагу на це питання",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T13:33:30Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1a714871c0c7",
+      "quote_en": "when I say it ends",
+      "quote_uk": "коли я кажу це закінчується",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T12:21:21Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_e528e6b87549",
       "quote_en": "It looked like another rigged election",
@@ -142,30 +190,6 @@
           "outlet": "Al Jazeera English",
           "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
           "independence_group": "aljazeera",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_2ecc8e4cc1b0",
-      "quote_en": "I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE!",
-      "quote_uk": "Я не був на Балоті і якщо я був, ми виграли в LANDSLIDE!",
-      "translation": "machine",
-      "is_paraphrase": false,
-      "said_at": "2026-11-04T04:19:40Z",
-      "platform": "unknown",
-      "region": null,
-      "us_state": null,
-      "topics": [],
-      "triggers_alert": false,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "Politico",
-          "url": "https://www.politico.com/news/2026/11/03/midterms-blue-wave-gop-wipeout-01147461",
-          "independence_group": "politico",
           "primary": false
         }
       ],
