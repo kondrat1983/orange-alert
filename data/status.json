@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-04T15:39:08Z",
-  "now_washington": "2026-11-04T10:39:08-05:00",
-  "now_kyiv": "2026-11-04T17:39:08+02:00",
+  "generated_at": "2026-11-04T21:40:52Z",
+  "now_washington": "2026-11-04T16:40:52-05:00",
+  "now_kyiv": "2026-11-04T23:40:52+02:00",
   "auto_publish": true,
   "alert": {
-    "level": "yellow",
-    "since": "2026-11-04T12:21:21Z",
+    "level": "green",
+    "since": null,
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "first statement of his day at 07:21 Washington time (Al Jazeera English, BBC News World)",
-    "based_on_uk": "перший пост о 07:21 за Вашингтоном (за даними Al Jazeera English, BBC News World)",
-    "emoji": "🟡"
+    "based_on": "no new statements about Ukraine since 12:51 Kyiv time, 25.10",
+    "based_on_uk": "нових заяв про Україну немає з 12:51 за Києвом, 25.10",
+    "emoji": "🟢"
   },
   "day": {
     "at_mic_source": null,
