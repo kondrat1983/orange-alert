@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T20:14:18Z",
+  "updated_at": "2026-11-04T00:45:57Z",
   "statements": [
+    {
+      "id": "st_d7301ce7405b",
+      "quote_en": "Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and 1,000,000 Tons immediately thereafter",
+      "quote_uk": "Росія негайно поставить понад 300 000 тонн дизельного палива на американський і глобальний ринок, ще 500 000 тонн протягом місяця листопада, і 1,000,000 тонн відразу після цього",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-03T23:12:58Z",
+      "platform": "truth_social",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/new-jersey-governor-warns-importing-russian-diesel-will-be-met-with-harsh-penalties-amid-trump-deal/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_0577e59e3afa",
       "quote_en": "Background: On 9 October, Trump said he had spoken to Putin and reached an agreement with him on supplies of Russian diesel fuel to the US and global markets.",

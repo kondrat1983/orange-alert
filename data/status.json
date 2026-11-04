@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-03T20:14:18Z",
-  "now_washington": "2026-11-03T15:14:18-05:00",
-  "now_kyiv": "2026-11-03T22:14:18+02:00",
+  "generated_at": "2026-11-04T00:45:57Z",
+  "now_washington": "2026-11-03T19:45:57-05:00",
+  "now_kyiv": "2026-11-04T02:45:57+02:00",
   "auto_publish": true,
   "alert": {
     "level": "yellow",
-    "since": "2026-11-03T17:18:00Z",
+    "since": "2026-11-03T23:12:58Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "a statement about Ukraine is waiting for a second source (Ukrainska Pravda EN)",
-    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Ukrainska Pravda EN)",
+    "based_on": "a statement about Ukraine is waiting for a second source (Kyiv Independent)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Kyiv Independent)",
     "emoji": "🟡"
   },
   "day": {
@@ -25,10 +25,10 @@
     "based_on_uk": "з 05:00 за Вашингтоном публічних заяв не виявлено"
   },
   "counters": {
-    "days_since_last_ukraine_statement": 9,
+    "days_since_last_ukraine_statement": 10,
     "last_ukraine_statement_id": "st_fffa16fa982c",
     "ukraine_statements_last_7_days": 0,
-    "days_since_24h_promise_baseline": 728,
+    "days_since_24h_promise_baseline": 729,
     "baseline_24h": "2024-11-05"
   }
 }
