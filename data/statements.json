@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T07:10:19Z",
+  "updated_at": "2026-11-04T15:39:08Z",
   "statements": [
+    {
+      "id": "st_5e3156b6350d",
+      "quote_en": "I think a part of it was Iran",
+      "quote_uk": "Я думаю, що це був Іран",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T12:21:21Z",
+      "platform": "interview",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        },
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "published",
+      "retract_reason": null
+    },
     {
       "id": "st_fffa16fa982c",
       "quote_en": "I think she's doing better than the professionals right now. She got a ceasefire. This has to do with children and people, elderly people",
