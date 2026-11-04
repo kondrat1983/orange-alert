@@ -1,7 +1,177 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T00:45:57Z",
+  "updated_at": "2026-11-04T07:10:19Z",
   "statements": [
+    {
+      "id": "st_e528e6b87549",
+      "quote_en": "It looked like another rigged election",
+      "quote_uk": "Шукаємо ще одну крихкі вибори",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T06:12:59Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_543740dd9877",
+      "quote_en": "Details: Trump claimed that had he stood for election himself, the Republicans would have won by a huge margin in the 2 November elections.",
+      "quote_uk": "Про це заявив Трамп, що він став для обрання себе, республіканці виграли величезний запас на 2 листопада вибори.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-04T05:36:00Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/04/8061156/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1ad92226b31b",
+      "quote_en": "I'll become Mr. Veto",
+      "quote_uk": "Я стане паном Вето",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T04:44:55Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_4d600669e632",
+      "quote_en": "and then at some point we'll probably make deals.",
+      "quote_uk": "а потім в певній точці ми, ймовірно, зробимо пропозиції.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T04:44:55Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1f98cacc244f",
+      "quote_en": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+      "quote_uk": "Непрямі переговори продовжуються, як Трамп каже, що США військові застрягли іранську антиповітряну споруду у вівторок.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-04T04:39:31Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_0a0304ddd8da",
+      "quote_en": "They’ll send over things that are insane, and I’ll veto them",
+      "quote_uk": "Ми надішлемо речами, які засвідчили, і я втілю їх",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T04:37:05Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_2ecc8e4cc1b0",
+      "quote_en": "I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE!",
+      "quote_uk": "Я не був на Балоті і якщо я був, ми виграли в LANDSLIDE!",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-04T04:19:40Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Politico",
+          "url": "https://www.politico.com/news/2026/11/03/midterms-blue-wave-gop-wipeout-01147461",
+          "independence_group": "politico",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_d7301ce7405b",
       "quote_en": "Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and 1,000,000 Tons immediately thereafter",
