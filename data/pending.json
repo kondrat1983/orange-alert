@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T21:40:52Z",
+  "updated_at": "2026-11-05T01:57:13Z",
   "statements": [
+    {
+      "id": "st_89e85e8aff53",
+      "quote_en": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+      "quote_uk": "Іран війни жив: Трамп каже, що війна викликала вирок виборів, але він «дихає це»",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-05T00:00:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e52d258e43ad",
+      "quote_en": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections, as higher gasoline prices affected voters.",
+      "quote_uk": "Президент Дональд Трамп заявив, що війна в Ірані, ймовірно, сприяла поверненню республіки на середньострокових виборах, оскільки вищі ціни на бензин, що постраждали від виборців.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-04T23:30:01Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_c9cfce7e96c0",
       "quote_en": "broke for President Trump in historical numbers [in 2024] … had to make a hard change because their paycheck wasn't moving fast and far enough for them",

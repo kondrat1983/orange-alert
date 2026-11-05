@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T21:40:52Z",
-  "now_washington": "2026-11-04T16:40:52-05:00",
-  "now_kyiv": "2026-11-04T23:40:52+02:00",
+  "generated_at": "2026-11-05T01:57:13Z",
+  "now_washington": "2026-11-04T20:57:13-05:00",
+  "now_kyiv": "2026-11-05T03:57:13+02:00",
   "auto_publish": true,
   "alert": {
     "level": "green",
@@ -25,10 +25,10 @@
     "based_on_uk": "перший пост о 07:21 за Вашингтоном (за даними Al Jazeera English, BBC News World)"
   },
   "counters": {
-    "days_since_last_ukraine_statement": 10,
+    "days_since_last_ukraine_statement": 11,
     "last_ukraine_statement_id": "st_fffa16fa982c",
     "ukraine_statements_last_7_days": 0,
-    "days_since_24h_promise_baseline": 729,
+    "days_since_24h_promise_baseline": 730,
     "baseline_24h": "2024-11-05"
   }
 }
