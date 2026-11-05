@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T17:07:42Z",
+  "updated_at": "2026-11-05T22:45:18Z",
   "statements": [
+    {
+      "id": "st_e198b2a1b6af",
+      "quote_en": "Last week in Oleshky and neighbouring areas of Kherson, people experienced the simple joys of life for the first time since 2022",
+      "quote_uk": "Минулого тижня в Олешки та сусідні райони Херсона, люди пережили прості радості життя вперше з 2022 року",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-05T19:08:08Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_0192167a56db",
       "quote_en": "when I want it to",
