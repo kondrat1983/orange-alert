@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T08:57:32Z",
+  "generated_at": "2026-11-05T17:07:42Z",
   "window_hours": 24,
-  "focus": "middle_east",
+  "focus": null,
   "focus_us_state": null,
   "regions": {
     "ukraine": {
@@ -62,9 +62,9 @@
       "us_states": {}
     },
     "middle_east": {
-      "count": 1,
-      "latest_statement_id": "st_5e3156b6350d",
-      "latest_said_at": "2026-11-04T12:21:21Z",
+      "count": 0,
+      "latest_statement_id": null,
+      "latest_said_at": null,
       "alert": false,
       "us_states": {}
     },

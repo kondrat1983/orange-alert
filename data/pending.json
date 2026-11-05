@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T08:57:32Z",
+  "updated_at": "2026-11-05T17:07:42Z",
   "statements": [
+    {
+      "id": "st_0192167a56db",
+      "quote_en": "when I want it to",
+      "quote_uk": "коли я хочу",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-05T16:12:35Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_7575147129a1",
       "quote_en": "I know how he feels about it. I think it was -- I think it was fine",
