@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T01:57:13Z",
+  "updated_at": "2026-11-05T08:57:32Z",
   "statements": [
+    {
+      "id": "st_7575147129a1",
+      "quote_en": "I know how he feels about it. I think it was -- I think it was fine",
+      "quote_uk": "Я знаю, як він відчуває про це. Тексти пісень, а це означає: Я думаю, що це було",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-05T03:47:56Z",
+      "platform": "press_conference",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_89e85e8aff53",
       "quote_en": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
