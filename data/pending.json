@@ -1,7 +1,135 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T22:45:18Z",
+  "updated_at": "2026-11-06T03:03:03Z",
   "statements": [
+    {
+      "id": "st_0b1adbf164c8",
+      "quote_en": "I think we’re going to be very close to settling Russia-Ukraine",
+      "quote_uk": "Я думаю, що ми будемо дуже близько, щоб встановити Росія-Україна",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-06T00:06:31Z",
+      "platform": "press_conference",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_45a8ce38985e",
+      "quote_en": "There’s going to be an agreement. It’s going to be a big agreement, and it’s going to involve more than Ukraine",
+      "quote_uk": "У зв’язку з цим, у зв’язку з цим, у зв’язку з цим. Це буде велика угода, і це буде залучити більше України",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-06T00:06:31Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_158c63e68d59",
+      "quote_en": "all of Europe",
+      "quote_uk": "Європа",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-06T00:06:31Z",
+      "platform": "unknown",
+      "region": "eu_nato",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_d9044003c358",
+      "quote_en": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "quote_uk": "Іранська війна жити: Трамп попереджає, що США може бути «дестройний» відпочинок Ірану",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-06T00:00:00Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_16cc4f1ae3dd",
+      "quote_en": "Trump told reporters that the sides were close to reaching a deal.",
+      "quote_uk": "Трамп розповів про те, що сторони були близькими до виходу угоди.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-05T23:52:48Z",
+      "platform": "press_conference",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_e198b2a1b6af",
       "quote_en": "Last week in Oleshky and neighbouring areas of Kherson, people experienced the simple joys of life for the first time since 2022",
