@@ -1,7 +1,131 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T03:03:03Z",
+  "updated_at": "2026-11-06T11:17:23Z",
   "statements": [
+    {
+      "id": "st_34236b35ab85",
+      "quote_en": "When Trump claimed the political establishment had stolen his re-election, he didn’t sit idly by, accepting the results.",
+      "quote_uk": "Коли Трамп заявив, що політичну установу вкрав її релекцію, він не сидить, приймає результати.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-06T07:51:09Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_a179a0cbc3b4",
+      "quote_en": "When Trump told his voters to imagine that he was on the ballot, it wasn’t just his supporters who made this election a referendum on Trump.",
+      "quote_uk": "Коли Трамп заявив про те, що він був на балоті, це не просто його прихильники, які зробили цей референдум про Трампа.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-06T07:51:09Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_8684455cec59",
+      "quote_en": "Regarding Russia's war against Ukraine, Trump said that he expected the conflict to be resolved fairly soon, noting that approximately 25,000 people were dying every month as fighting continued around the clock.",
+      "quote_uk": "У зв'язку з тим, що Росія проти України, Трамп заявив, що він очікував конфлікт, щоб вирішити досить скоро, незважаючи на те, що близько 25,000 людей загинули кожного місяця, оскільки боротьба тривала цілодобово.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-06T04:43:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4181959-trump-announces-big-deal-that-concerns-ukraine-and-all-of-europe.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_43b5cae4ea35",
+      "quote_en": "Asked whether he had discussed with the Russian representative the killing of Ukrainian civilians in their homes, buses, and schools, Trump said that he regularly raised the issue.",
+      "quote_uk": "Про це заявив, що він регулярно підняв питання.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-06T04:43:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": true,
+      "sources": [
+        {
+          "outlet": "Ukrinform EN",
+          "url": "https://www.ukrinform.net/rubric-polytics/4181959-trump-announces-big-deal-that-concerns-ukraine-and-all-of-europe.html",
+          "independence_group": "ukrinform",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_0467fbd5f3ba",
+      "quote_en": "Background: Trump said that a major new deal involving Ukraine could be reached soon which have implications for the whole of Europe.",
+      "quote_uk": "Підприємець: Трамп заявив, що найбільша нова угода, яка за участю України, може бути досягнута найближчим часом.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-06T02:04:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/06/8061495/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_0b1adbf164c8",
       "quote_en": "I think we’re going to be very close to settling Russia-Ukraine",
@@ -13,32 +137,6 @@
       "region": "ukraine",
       "us_state": null,
       "topics": [],
-      "triggers_alert": true,
-      "victims_flag": false,
-      "sources": [
-        {
-          "outlet": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
-          "independence_group": "reuters",
-          "primary": false
-        }
-      ],
-      "status": "pending",
-      "retract_reason": null
-    },
-    {
-      "id": "st_45a8ce38985e",
-      "quote_en": "There’s going to be an agreement. It’s going to be a big agreement, and it’s going to involve more than Ukraine",
-      "quote_uk": "У зв’язку з цим, у зв’язку з цим, у зв’язку з цим. Це буде велика угода, і це буде залучити більше України",
-      "translation": "machine",
-      "is_paraphrase": false,
-      "said_at": "2026-11-06T00:06:31Z",
-      "platform": "unknown",
-      "region": "ukraine",
-      "us_state": null,
-      "topics": [
-        "peace_talks"
-      ],
       "triggers_alert": true,
       "victims_flag": false,
       "sources": [

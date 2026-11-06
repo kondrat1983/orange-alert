@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T03:03:03Z",
+  "generated_at": "2026-11-06T11:17:23Z",
   "window_hours": 24,
-  "focus": null,
+  "focus": "ukraine",
   "focus_us_state": null,
   "regions": {
     "ukraine": {
-      "count": 0,
-      "latest_statement_id": null,
-      "latest_said_at": null,
+      "count": 1,
+      "latest_statement_id": "st_45a8ce38985e",
+      "latest_said_at": "2026-11-06T02:54:01Z",
       "alert": true,
       "us_states": {}
     },

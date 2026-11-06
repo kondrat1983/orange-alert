@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-06T03:03:03Z",
-  "now_washington": "2026-11-05T22:03:03-05:00",
-  "now_kyiv": "2026-11-06T05:03:03+02:00",
+  "generated_at": "2026-11-06T11:17:23Z",
+  "now_washington": "2026-11-06T06:17:23-05:00",
+  "now_kyiv": "2026-11-06T13:17:23+02:00",
   "auto_publish": true,
   "alert": {
-    "level": "yellow",
-    "since": "2026-11-06T00:06:31Z",
+    "level": "green",
+    "since": null,
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "a statement about Ukraine is waiting for a second source (Al Jazeera English)",
-    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Al Jazeera English)",
-    "emoji": "🟡"
+    "based_on": "no new statements about Ukraine since 04:54 Kyiv time, 06.11",
+    "based_on_uk": "нових заяв про Україну немає з 04:54 за Києвом, 06.11",
+    "emoji": "🟢"
   },
   "day": {
     "at_mic_source": null,
@@ -25,9 +25,9 @@
     "based_on_uk": "з 05:00 за Вашингтоном публічних заяв не виявлено"
   },
   "counters": {
-    "days_since_last_ukraine_statement": 12,
-    "last_ukraine_statement_id": "st_fffa16fa982c",
-    "ukraine_statements_last_7_days": 0,
+    "days_since_last_ukraine_statement": 0,
+    "last_ukraine_statement_id": "st_45a8ce38985e",
+    "ukraine_statements_last_7_days": 1,
     "days_since_24h_promise_baseline": 731,
     "baseline_24h": "2024-11-05"
   }
