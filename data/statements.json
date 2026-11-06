@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T03:03:03Z",
+  "updated_at": "2026-11-06T11:17:23Z",
   "statements": [
+    {
+      "id": "st_45a8ce38985e",
+      "quote_en": "There's going to be an agreement. It's going to be a big agreement, and it's going to involve more than Ukraine",
+      "quote_uk": "У зв'язку з тим, що у вас є договір. Це буде велика угода, і це буде залучити більше України",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-06T02:54:01Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        },
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+          "independence_group": "reuters",
+          "primary": false
+        }
+      ],
+      "status": "published",
+      "retract_reason": null
+    },
     {
       "id": "st_5e3156b6350d",
       "quote_en": "I think a part of it was Iran",
