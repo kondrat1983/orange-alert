@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T18:11:54Z",
+  "updated_at": "2026-11-06T23:22:37Z",
   "statements": [
+    {
+      "id": "st_1b79e15ccddd",
+      "quote_en": "White House chief of staff Susie Wiles is being replaced by Stephen Miller, President Trump said Friday.",
+      "quote_uk": "Керівник Білого дому Susie Wiles заміщений Стівеном Міллером, президент Трамп сказав п'ятницю.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-06T22:21:35Z",
+      "platform": "unknown",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "NPR Politics",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+          "independence_group": "npr",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_e7f3d41154f4",
       "quote_en": "Background: On 5 November, US President Donald Trump said that a major new deal involving Ukraine could be reached soon which may have implications for the whole of Europe.",
