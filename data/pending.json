@@ -1,7 +1,187 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T02:59:40Z",
+  "updated_at": "2026-11-07T09:47:33Z",
   "statements": [
+    {
+      "id": "st_8cfbcc17a211",
+      "quote_en": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island, marking the first attacks since the November 3 midterm elections.",
+      "quote_uk": "Президент США Дональд Трамп заявив, що Америка провела «порушення ударів» на острові Qeshm Іран, розмітивши перші атаки з 3 листопада середні вибори.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-07T07:05:01Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e6ce89db41c9",
+      "quote_en": "Trump told reporters the conflict is ‘not a war’.",
+      "quote_uk": "Про це заявив Трамп.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-07T07:05:01Z",
+      "platform": "press_conference",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e6d7d67b824d",
+      "quote_en": "We’re dealing with them now. They want to make a deal",
+      "quote_uk": "Ми працюємо з ними. Вони хочуть зробити угоду",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-07T03:53:01Z",
+      "platform": "press_conference",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        },
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_e7db158074e9",
+      "quote_en": "They knocked out – they built a little bit of an anti-aircraft device, and we knocked it out in about 15 minutes, maybe five.",
+      "quote_uk": "Вони вибивають – вони побудували трохи антиповітряного пристрою, і ми вибиваємо його приблизно 15 хвилин, можливо, п'ять.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-07T03:53:01Z",
+      "platform": "press_conference",
+      "region": "us_domestic",
+      "us_state": "Florida",
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_c8494650b813",
+      "quote_en": "Trump says he has held phone calls on ending the war in Ukraine",
+      "quote_uk": "Трамп каже, що він провів телефонні дзвінки на закінчення війни в Україні",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-07T03:31:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/07/8061671/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_b612fe222bd2",
+      "quote_en": "Details: Trump said that this is the first time Ukraine and Russia have been ready to settle.",
+      "quote_uk": "Детальніше: Трамп заявив, що це перший раз Україна і Росія готові врегулювати.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-07T03:31:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/07/8061671/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_de4eda8d8eb2",
+      "quote_en": "Stephen Miller's been with me since the beginning",
+      "quote_uk": "Стівен Міллер з мене з самого початку",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-06T23:24:15Z",
+      "platform": "truth_social",
+      "region": null,
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_1b79e15ccddd",
       "quote_en": "White House chief of staff Susie Wiles is being replaced by Stephen Miller, President Trump said Friday.",
