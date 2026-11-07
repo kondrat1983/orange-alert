@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T16:02:19Z",
+  "updated_at": "2026-11-07T20:23:15Z",
   "statements": [
+    {
+      "id": "st_12077e57443b",
+      "quote_en": "The Democrats are going around threatening a lot of people",
+      "quote_uk": "Демократи загрожують багато людей",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-07T19:42:46Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_30177f56f3e3",
+      "quote_en": "On Friday, Trump insisted that Iran was keen to end the eight-month conflict with the US, stressing the damage to Tehran's economy and military.",
+      "quote_uk": "У п'ятницю Трамп наполягав, що Іран мав на меті наприкінці восьмимісячного конфлікту з США, наголошуючи пошкодження економіки Техрану та військових.",
+      "translation": "machine",
+      "is_paraphrase": true,
+      "said_at": "2026-11-07T18:14:38Z",
+      "platform": "unknown",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "BBC News World",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+          "independence_group": "bbc",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_975ff2e1f1a5",
+      "quote_en": "Modern warfare is technologically different. Monitoring can be conducted using drones. You will have evidence of violations — actual video recordings",
+      "quote_uk": "Сучасна війна технологічно відрізняється. Моніторинг може проводитися за допомогою безпілотників. Ви будете мати докази порушень — фактичні відеозаписи",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-07T16:13:52Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-says-oleshky-ceasefire-shows-russia-can-halt-fighting-but-putin-is-unwilling/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_8cfbcc17a211",
       "quote_en": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island, marking the first attacks since the November 3 midterm elections.",
