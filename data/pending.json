@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T03:52:01Z",
+  "updated_at": "2026-11-08T10:59:06Z",
   "statements": [
+    {
+      "id": "st_4b59f0f68720",
+      "quote_en": "big, beautiful agreement",
+      "quote_uk": "великий, красивий договір",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-08T07:32:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/08/8061776/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_12077e57443b",
       "quote_en": "The Democrats are going around threatening a lot of people",

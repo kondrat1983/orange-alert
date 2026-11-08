@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-08T03:52:01Z",
-  "now_washington": "2026-11-07T22:52:01-05:00",
-  "now_kyiv": "2026-11-08T05:52:01+02:00",
+  "generated_at": "2026-11-08T10:59:06Z",
+  "now_washington": "2026-11-08T05:59:06-05:00",
+  "now_kyiv": "2026-11-08T12:59:06+02:00",
   "auto_publish": true,
   "alert": {
-    "level": "green",
-    "since": null,
+    "level": "yellow",
+    "since": "2026-11-08T07:32:00Z",
     "until": null,
     "statement_id": null,
     "jokes_off": false,
-    "based_on": "no new statements about Ukraine since 04:54 Kyiv time, 06.11",
-    "based_on_uk": "нових заяв про Україну немає з 04:54 за Києвом, 06.11",
-    "emoji": "🟢"
+    "based_on": "a statement about Ukraine is waiting for a second source (Ukrainska Pravda EN)",
+    "based_on_uk": "заява про Україну чекає на друге джерело (поки лише Ukrainska Pravda EN)",
+    "emoji": "🟡"
   },
   "day": {
     "at_mic_source": null,
