@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T16:57:12Z",
+  "updated_at": "2026-11-08T20:57:48Z",
   "statements": [
+    {
+      "id": "st_38f2fe315eee",
+      "quote_en": "It depends on whether or not they sign a very strong agreement",
+      "quote_uk": "Це залежить від того, чи не вони підписали дуже сильний договір",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-08T20:13:39Z",
+      "platform": "interview",
+      "region": "middle_east",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_4b59f0f68720",
       "quote_en": "big, beautiful agreement",
