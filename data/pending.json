@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T20:57:48Z",
+  "updated_at": "2026-11-09T00:35:13Z",
   "statements": [
+    {
+      "id": "st_1f96d831fe35",
+      "quote_en": "The threats being made by the Democrat Party against innocent Republican Donors and Party Members are absolutely unprecedented, and totally illegal",
+      "quote_uk": "Загрози, які ведуть Демократська Партія проти невинних донорів і членів партії, абсолютно безпрецедентні, і абсолютно незаконні",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T00:07:02Z",
+      "platform": "unknown",
+      "region": "us_domestic",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": false,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+          "independence_group": "aljazeera",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_38f2fe315eee",
       "quote_en": "It depends on whether or not they sign a very strong agreement",

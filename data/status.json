@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T20:57:48Z",
-  "now_washington": "2026-11-08T15:57:48-05:00",
-  "now_kyiv": "2026-11-08T22:57:48+02:00",
+  "generated_at": "2026-11-09T00:35:13Z",
+  "now_washington": "2026-11-08T19:35:13-05:00",
+  "now_kyiv": "2026-11-09T02:35:13+02:00",
   "auto_publish": true,
   "alert": {
     "level": "green",
@@ -25,10 +25,10 @@
     "based_on_uk": "з 05:00 за Вашингтоном публічних заяв не виявлено"
   },
   "counters": {
-    "days_since_last_ukraine_statement": 2,
+    "days_since_last_ukraine_statement": 3,
     "last_ukraine_statement_id": "st_45a8ce38985e",
     "ukraine_statements_last_7_days": 1,
-    "days_since_24h_promise_baseline": 733,
+    "days_since_24h_promise_baseline": 734,
     "baseline_24h": "2024-11-05"
   }
 }
