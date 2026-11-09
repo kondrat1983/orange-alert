@@ -1,7 +1,330 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T00:35:13Z",
+  "updated_at": "2026-11-09T07:32:34Z",
   "statements": [
+    {
+      "id": "st_79175d7e6ade",
+      "quote_en": "You haven't gotten anything yet. Let's see how it all works out",
+      "quote_uk": "Ви не отримали нічого. Давайте подивимося, як все працює",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T03:50:00Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war",
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Ukrainska Pravda EN",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061867/",
+          "independence_group": "pravda",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_807ac1a9fa0b",
+      "quote_en": "I think we're going to have it done and I think it's going to happen, and they're going to end up with a little bit different shape [for] Ukraine",
+      "quote_uk": "Я думаю, що ми будемо робити, і я думаю, що це станеться, і вони будуть закінчуватися трохи різними формами [для] Україна",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "war"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_d674d6c0b2eb",
+      "quote_en": "that we're very close to making a deal.",
+      "quote_uk": "ми дуже близько, щоб зробити угоду.",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "peace_talks"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_92f666af58a4",
+      "quote_en": "​​There's a very important meeting taking place",
+      "quote_uk": "На зустрічі дуже важлива зустріч",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_1fb1f0a2d0a7",
+      "quote_en": "It was the hatred between Zelensky and Putin",
+      "quote_uk": "Він був проголошений між Зеленським і Путіним",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_9b90922b5dbc",
+      "quote_en": "When [Putin and Zelensky] had their first meeting, there was great disrespect shown to Russia",
+      "quote_uk": "Коли [Путин і Зеленський] мали свою першу зустріч, там був великий неоднозначний показ до Росії",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_3b2ae31b84c6",
+      "quote_en": "I'd rather not say, but I get along with both",
+      "quote_uk": "Я не кажу, але я отримую разом з обох",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_ce7ebb6c183a",
+      "quote_en": "It wasn't me",
+      "quote_uk": "Не було",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_6e38a9683ce6",
+      "quote_en": "I can't tell you who turned it down",
+      "quote_uk": "Я не можу сказати, що ви звернулися",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_83365af1140f",
+      "quote_en": "There's been nobody that's been tougher on Russia than me",
+      "quote_uk": "На Русі, ніж мене",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "russia",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_dcc8d6b5f20c",
+      "quote_en": "I didn't lift diesel sanctions",
+      "quote_uk": "Я не підняв дизельні санкції",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "sanctions"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_5b38dcc3141b",
+      "quote_en": "We just gave weapon after weapon after weapon and we supplied the weapons",
+      "quote_uk": "Ми просто подарували зброї після зброї і подали зброї",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [
+        "weapons"
+      ],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
+    {
+      "id": "st_7b62368152b1",
+      "quote_en": "You haven't gotten it yet",
+      "quote_uk": "Ви ще не отримали",
+      "translation": "machine",
+      "is_paraphrase": false,
+      "said_at": "2026-11-09T02:56:20Z",
+      "platform": "unknown",
+      "region": "ukraine",
+      "us_state": null,
+      "topics": [],
+      "triggers_alert": true,
+      "victims_flag": false,
+      "sources": [
+        {
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-will-likely-end-up-with-a-little-bit-different-shape-after-war-trump-tells-60-minutes/",
+          "independence_group": "kyivindependent",
+          "primary": false
+        }
+      ],
+      "status": "pending",
+      "retract_reason": null
+    },
     {
       "id": "st_1f96d831fe35",
       "quote_en": "The threats being made by the Democrat Party against innocent Republican Donors and Party Members are absolutely unprecedented, and totally illegal",
