@@ -1,8 +1,9 @@
 name: Pipeline
 
+# Project paused on 2026-11-09: schedule disabled. To resume, restore:
+#   schedule:
+#     - cron: "*/30 * * * *"
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
